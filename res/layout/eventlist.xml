@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	 <TextView
+	        android:id="@+id/textView1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentTop="true"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="10dp"
+	        android:text="                      Events"
+	        android:textStyle="bold"
+	          
+	        android:textAppearance="?android:attr/textAppearanceLarge" >
+	    </TextView>
+	 <Button
+	     android:id="@+id/news1"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"	     
+	     android:layout_marginTop="20dp"
+	      android:layout_marginBottom="20dp"
+	       android:layout_marginLeft="10dp"
+	    
+	     android:text=" Coles College Breakfast Series"
+	     android:textColor="@android:color/white" />
+	 <Button
+	     android:id="@+id/news2"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	     android:layout_below="@+id/news1"
+	         android:layout_marginBottom="20dp"  android:layout_marginLeft="5dp"
+	    android:text="  Dalton MBA Information Session"
+	     
+	      android:textColor="@android:color/white" />
+	 
+  <Button
+	     android:id="@+id/news3"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	      android:layout_marginBottom="20dp"
+	       android:layout_below="@+id/news2" 
+	      android:text="    Executive MBA Information Session"
+	       
+	     android:textColor="@android:color/white" />
+ 
+   <Button
+	     android:id="@+id/news4"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	       android:layout_marginBottom="20dp"
+	       android:layout_below="@+id/news3"  android:layout_marginLeft="10dp"
+	     android:text=" MBA Information Session"
+	     android:textColor="@android:color/white" />
+  
+    <Button
+        android:id="@+id/news5"
+        android:layout_width="286dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/news4"
+        android:layout_centerHorizontal="false"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:background="@android:color/black"
+        android:text="Coles Executive MBA 12th Annual Lessons in Leadership                                                              "
+        android:textColor="@android:color/white" />
+
+    <Button
+	     android:id="@+id/news6"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	         android:layout_marginBottom="20dp"  android:layout_marginLeft="10dp"
+	       android:layout_below="@+id/news5"  android:layout_centerHorizontal="false"
+	     android:text="  National Collegiate Sales Competition"
+	     android:textColor="@android:color/white" />
+
+</LinearLayout>

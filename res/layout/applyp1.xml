@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	    <TextView
+	        android:id="@+id/TextView02"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/apply001"
+	        android:textSize="20.1sp"
+	        android:gravity="left">	        
+	    </TextView>
+    	<RelativeLayout 
+	    android:id="@+id/relativeLayout1"
+		android:layout_height="match_parent"
+		android:layout_width="match_parent" 
+		>
+	 	<Button 
+		    android:id="@+id/worksheetBTN"
+		    android:layout_width="fill_parent" 
+			android:layout_height="wrap_content" 
+			android:layout_below="@+id/instructBTN"
+			android:text="GPA Calculator">
+		</Button>
+	 	<Button 
+		    android:id="@+id/checklistBTN"
+		    android:text="@string/btnChecklist" 
+		    android:layout_width="fill_parent" 
+			android:layout_height="wrap_content" 
+		    android:layout_below="@+id/worksheetBTN"
+			>
+		</Button>
+	 	</RelativeLayout>
+	</LinearLayout>
+</ScrollView>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout  
+	xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:id="@+id/tableLayout1"  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent"  
+    android:shrinkColumns="*"  
+    android:stretchColumns="*">  
+	<TableRow  
+        android:id="@+id/tableRow1"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center_horizontal">  
+        <TextView  
+            android:id="@+id/textView1"  
+            android:layout_width="match_parent"  
+            android:layout_height="40dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textSize="22dp"
+            android:text="Walking Direction"  
+            android:gravity="center"
+            android:layout_span="6">
+        </TextView>  
+    </TableRow> 
+    
+    <TableRow  
+        android:id="@+id/tableRow2"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Type here: building/college name"
+            android:gravity="left"  
+            android:layout_span="6" />
+	</TableRow> 
+		<TableRow  
+        android:id="@+id/tableRow3"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center_horizontal">
+
+	    <EditText
+	        android:id="@+id/entry1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@android:drawable/editbox_background"
+	        android:hint="Burruss"
+	        
+	        android:inputType="text" 
+	        android:layout_span="6">
+	        <requestFocus />
+	    </EditText>
+    </TableRow> 
+        <RadioGroup    
+        android:id="@+id/radio_group1"
+        android:layout_width="fill_parent"    
+        android:layout_height="wrap_content"   
+        android:orientation="horizontal" 
+        android:gravity="center_horizontal">
+	    
+	    <RadioButton
+	        android:id="@+id/rBtnBldgName"
+	        android:checked="true"
+	        android:layout_width="wrap_content"
+	        android:layout_height="35dp"
+            android:gravity="center"
+		    android:text="Building Name" 
+		    android:textSize="13dp"
+		    android:typeface="serif"/>
+
+	    <RadioButton
+	        android:id="@+id/rBtnClgName"
+	        android:layout_width="wrap_content"
+	        android:layout_height="35dp"
+	        android:gravity="center"
+	        android:text="College Name"
+	        android:textSize="13dp"
+	        android:typeface="serif"/>
+	</RadioGroup> 
+	
+	<TableRow
+	    android:id="@+id/tableRow8"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" >
+	    <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Type here: office name/room number"
+            android:gravity="left"  
+            android:layout_span="6" />
+	</TableRow>
+	
+	<TableRow  
+        android:id="@+id/tableRow5"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center_horizontal">
+
+	    <EditText
+	        android:id="@+id/entry2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@android:drawable/editbox_background"
+	        android:hint="Dr. Campbell"
+	        android:inputType="text" 
+	        android:layout_span="6">
+	        
+	    </EditText>
+    </TableRow> 
+    
+    <RadioGroup    
+        android:id="@+id/radio_group2"
+        android:layout_width="fill_parent"    
+        android:layout_height="wrap_content"   
+        android:orientation="horizontal" 
+        android:gravity="center_horizontal">
+        
+	    <RadioButton
+	        android:id="@+id/rBtnOffName"
+	        android:checked="true"
+	        android:layout_width="wrap_content"
+	        android:layout_height="35dp"
+            android:gravity="center"
+		    android:text="Office Name" 
+		    android:textSize="13dp"
+		    android:typeface="serif"  />
+
+	    <RadioButton
+	        android:id="@+id/rBtnRmNum"
+	        android:layout_width="wrap_content"
+	        android:layout_height="35dp"
+	        android:gravity="center"
+	        android:text="Room Number"
+	        android:textSize="13dp"
+	        android:typeface="serif" />
+    </RadioGroup>
+
+		
+	<TableRow  
+        android:id="@+id/tableRow7"  
+        android:layout_height="wrap_content"  
+        android:layout_width="match_parent"  
+        android:gravity="center_horizontal">
+
+		<Button
+		    android:id="@+id/btnSearch"
+		    android:layout_width="wrap_content"
+		    android:layout_height="40dp"
+		    android:layout_marginTop="0dp"
+		    android:textStyle="bold"  
+            android:typeface="serif"  
+            android:textSize="18dp"  
+		    android:text="Search" 
+		    android:gravity="center"  
+			android:layout_span="6"/>
+	</TableRow>
+	
+    <RadioGroup    
+        android:id="@+id/radio_group3"
+        android:layout_width="fill_parent"    
+        android:layout_height="wrap_content"   
+        android:orientation="horizontal" 
+        android:gravity="center_horizontal">
+		
+    </RadioGroup>
+	
+
+</TableLayout>

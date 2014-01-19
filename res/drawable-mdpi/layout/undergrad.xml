@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<RelativeLayout android:layout_width="match_parent"
+		android:id="@+id/relativeLayout1" android:layout_height="match_parent">
+		<Button android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:layout_below="@+id/textView1"
+			android:layout_centerHorizontal="true" android:layout_marginTop="38dp"
+			android:id="@+id/programs" android:text="Programs"></Button>
+		<Button android:layout_height="wrap_content" android:id="@+id/registration" android:layout_width="wrap_content" android:text="Registration" android:layout_below="@+id/admissionToColes" android:layout_centerHorizontal="true"></Button>
+		<Button android:layout_height="wrap_content" android:id="@+id/admissionToColes" android:layout_width="wrap_content" android:text="Admission to Coles" android:layout_below="@+id/newStudents" android:layout_centerHorizontal="true"></Button>
+		<Button android:layout_height="wrap_content" android:id="@+id/newStudents" android:layout_width="wrap_content" android:text="New Students" android:layout_below="@+id/programs" android:layout_centerHorizontal="true"></Button>
+		<Button android:layout_height="wrap_content" android:id="@+id/advising" android:layout_width="wrap_content" android:text="Advising" android:layout_below="@+id/registration" android:layout_centerHorizontal="true"></Button>
+		<Button android:layout_height="wrap_content" android:id="@+id/resources" android:layout_width="wrap_content" android:text="Resources" android:layout_below="@+id/advising" android:layout_centerHorizontal="true"></Button>
+		<TextView android:id="@+id/textView1" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:text="Undergraduate" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:layout_marginTop="93dp"></TextView>
+		<ImageView android:src="@drawable/undergraduate" android:id="@+id/imageView1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:layout_marginTop="19dp"></ImageView>
+	</RelativeLayout>
+
+</LinearLayout>

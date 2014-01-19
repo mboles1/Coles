@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:gravity="center|top" android:orientation="vertical"
+	android:weightSum="1">
+	<RelativeLayout android:layout_height="match_parent"
+		android:layout_width="match_parent" android:id="@+id/relativeLayout1">
+		<ImageView android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:src="@drawable/tools"
+			android:id="@+id/imageView1" android:layout_alignParentTop="true"
+			android:layout_centerHorizontal="true" android:layout_marginTop="14dp"></ImageView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:id="@+id/textView1" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:layout_below="@+id/imageView1"
+			android:layout_centerHorizontal="true" android:text="Tools"></TextView>
+		<Button android:layout_width="fill_parent"
+			android:layout_weight="1"
+			android:layout_height="wrap_content" android:layout_below="@+id/textView1"
+			android:layout_centerHorizontal="true"  android:layout_marginTop="54dp"
+			android:onClick="@layout/floormap"
+			android:text="Directions" android:id="@+id/directionsBTN"></Button>
+		<Button android:layout_width="fill_parent"
+			android:layout_weight="1"
+			android:layout_height="wrap_content" android:text="Application"
+			android:id="@+id/applicationBTN" android:layout_below="@+id/directionsBTN"
+			android:layout_centerHorizontal="true" android:layout_marginTop="103dp"></Button>
+		<Button android:layout_width="fill_parent"
+			android:layout_weight="1"
+			android:layout_height="wrap_content" android:text="Traffic"
+			android:id="@+id/trafficBTN" android:layout_below="@+id/directionsBTN"
+			android:layout_centerHorizontal="true" android:layout_marginTop="26dp"></Button>
+	</RelativeLayout>
+</LinearLayout>

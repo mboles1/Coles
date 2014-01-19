@@ -1,0 +1,654 @@
+<?xml version="1.0"?>
+<textData>
+<text_row id="208">
+	<menu_no>34535</menu_no>
+	<item_order>0</item_order>
+	<text_heading>0</text_heading>
+	<text_body>0</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="202">
+	<menu_no>201</menu_no>
+	<item_order>0</item_order>
+	<text_heading>New Student Orientation</text_heading>
+	<text_body>The goal of the MSIS Orientation is to enable you to take care of the administrative issues as a student of a\r\ngrad business program in KSU. This is a &quot;fair-style&quot; drop-in orientation. There will be a formal description\r\nof the requirements of the program. Departments and offices will also have representatives available to\r\nanswer your questions and provide you with information you need to get started.\r\n\r\nTopics of discussion include class selection, registration procedures, alumni services, and other important\r\ninformation. There will also be an opportunity for Q&amp;A. Once accepted into the program you will receive\r\ninformation on the next scheduled orientation session.\r\n\r\nNote that the university graduate College also conducts a more detailed (registration required) orientation\r\nthat covers university wide awareness and requirements for a student and you are encouraged to attend one\r\nof the sessions there.</text_body>
+	<link></link>
+	</text_row>
+<text_row id="204">
+	<menu_no>203</menu_no>
+	<item_order>0</item_order>
+	<text_heading>Expected Prerequisite Knowledge</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="205">
+	<menu_no>203</menu_no>
+	<item_order>0</item_order>
+	<text_heading>Curriculum</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="206">
+	<menu_no>203</menu_no>
+	<item_order>0</item_order>
+	<text_heading>Tuition and Fees</text_heading>
+	<text_body>The tuition and fees of Kennesaw MSIS program is competitively priced to offer very high value for your money. Tuition assistance is available through our Graduate Research Assistantship Program or Returning Peace Corp Volunteer (RPCV) fellowship.</text_body>
+	<link></link>
+	</text_row>
+<text_row id="1">
+	<menu_no>0</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Academic Programs</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="5">
+	<menu_no>65</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Programs</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="11">
+	<menu_no>5</menu_no>
+	<item_order>1</item_order>
+	<text_heading>B.B.A. Program</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="78">
+	<menu_no>66</menu_no>
+	<item_order>1</item_order>
+	<text_heading>DBA Program</text_heading>
+	<text_body>Info Here.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/dba/</link>
+	</text_row>
+<text_row id="37">
+	<menu_no>11</menu_no>
+	<item_order>1</item_order>
+	<text_heading>General Info</text_heading>
+	<text_body>&lt;p&gt;The Coles College of Business offers a B.B.A. degree (Bachelor of Business Administration) with Majors in the nine areas listed below.  Select each for more information.&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nThe B.B.A. degree requires a minimum of 123 semester hours.  Many of the degree requirements are the same across all of our Majors, so you do not have to know which specific Major you want to do until early in your junior year. You can declare yourself a &quot;Business - Undecided&quot; Major until you decide. However, it is best to make a decision as soon as possible because your choice of Major might affect what you want to schedule each term. This is especially true for the International Business Major which has required language courses that you will want to take during your first and second years.\r\n&lt;/p&gt;\r\n\r\nhttp://www.google.com</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/</link>
+	</text_row>
+<text_row id="52">
+	<menu_no>9</menu_no>
+	<item_order>1</item_order>
+	<text_heading>About Advising</text_heading>
+	<text_body>&lt;p&gt;The Business Undergraduate Advising Center is in Room 431 of the Burruss Building.  You can pick up handouts from the display racks or arrange to meet with an advisor.  The Advising Center also handles applications to the Coles Undergraduate Professional Program, Prerequisite Override requests for business courses, Course Substitution requests, and other advising-related paperwork.&lt;/p&gt;\r\n\r\n&lt;p&gt;Walk-in advising is available most weekdays that KSU is open, and on some Saturdays.  Check the Advising Traffic function below to get an indication of the wait for walk-in advising.&lt;/p&gt;\r\n\r\n&lt;p&gt;Because special events (for example, University meetings and New Student Orientations) may prevent us from providing advising, you should always call the day you want to come to verify that advising will be available when you arrive.  The phone number is 770-423-6055.&lt;/p&gt;\r\n\r\n&lt;p&gt;WebLearners should call the Advising Center and leave a message requesting advising help.  Include your name, KSU ID, Major, phone number, KSU email address, and general area of question.  A Staff Advisor will contact you to arrange advising service.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/advising/</link>
+	</text_row>
+<text_row id="54">
+	<menu_no>10</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Tutoring</text_heading>
+	<text_body>The Coles College provides one-on-one and group tutoring services for the following courses: \r\n\r\n&lt;ul&gt; \r\n&lt;li&gt;ACCT 2100, 2200, 3100&lt;/li&gt;\r\n&lt;li&gt;ECON 2100, 2200 (Economics)&lt;/li&gt;\r\n&lt;li&gt;ECON 2300, 3300 (Statistics)&lt;/li&gt;\r\n&lt;li&gt;FIN 3100&lt;/li&gt;\r\n&lt;/ul&gt;\r\n\r\n&lt;p&gt;\r\nFace-to-face tutoring takes place in BB 292.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nThe tutoring schedule is available at the Coles website.  Click the &quot;More Info on Web&quot; button below to go there.\r\n&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/resources/tutoringschedule.htm</link>
+	</text_row>
+<text_row id="65">
+	<menu_no>1</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Undergraduate</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="75">
+	<menu_no>2</menu_no>
+	<item_order>1</item_order>
+	<text_heading>News</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="71">
+	<menu_no>4</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Walk to Building</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="99">
+	<menu_no>78</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Program Information</text_heading>
+	<text_body>&lt;p&gt;The Doctor of Business Administration (DBA) Program is a unique, highly innovative, globally recognized doctoral degree in business targeted to experienced professionals with a master\&apos;s degree and extensive business experience.&lt;/p&gt;\r\n\r\n&lt;p&gt;In a program that typically takes students 3 1/2 years to complete, KSU DBA graduates will enhance their career flexibility and choices by preparing for expanded roles within academia or industry. We are confident the AACSB accredited KSU DBA, led by a dedicated doctoral faculty with world class credentials, will help you move to the next level in achieving your career goals.&lt;/p&gt;\r\n\r\n&lt;p&gt;For a complete list of courses view the KSU Graduate Admissions catalog by selecting More Info below.&lt;/p&gt;</text_body>
+	<link>http://catalog.kennesaw.edu/preview_program.php?catoid=13&amp;poid=893&amp;returnto=606)</link>
+	</text_row>
+<text_row id="108">
+	<menu_no>110</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Application Information</text_heading>
+	<text_body>&lt;p&gt;When you join the Coles Executive MBA, you\&apos;re joining the best - not only the best in terms of your peer students and top business school faculty, but also a community that extends to distinguished business leaders and Coles alumni network. If you want more from your career and your life, pursue us.&lt;/p&gt;\r\n\r\n&lt;p&gt;Coles Executive MBA classes are filled on a first apply, first qualify, rolling admission basis. We encourage you to submit your application early for best planning.&lt;/p&gt;\r\n\r\nFor current application deadlines, select the More Info option below.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/application-dates-deadlines.htm</link>
+	</text_row>
+<text_row id="102">
+	<menu_no>6</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Requirements</text_heading>
+	<text_body>&lt;p&gt;Business majors must apply for and be accepted to the &quot;Coles College Undergraduate Professional Program&quot; in order to be eligible to take any upper-division business courses and to graduate with a B.B.A. degree. Admission to the Coles College Undergraduate Professional Program is separate from admission to Kennesaw State University.&lt;/p&gt;\r\n\r\n&lt;p&gt;To be &quot;admitted to Coles&quot; you must successfully complete the Coles Sophomore GPA Requirement and the other requirements, pay a non-refundable application fee, and submit a completed application to the Business Undergraduate Advising Center in BB 431.  Select the &quot;Admission Checklist&quot; function below to track your progress on the Coles admission requirements.&lt;/p&gt;\r\n\r\n&lt;p&gt;The Sophomore GPA Requirement involves achieving a minimum GPA on a specific set of courses. The minimum GPA that you must achieve, and the courses required, are based on the KSU Catalog you are following for your degree requirements.  Select the &quot;Sophomore GPA Calculator&quot; function below to calculate whether you meet your GPA requirement.&lt;/p&gt;\r\n\r\n&lt;p&gt;The Catalog you follow for your degree is usually based on your &quot;matriculation date&quot; at KSU (the term you started taking classes at KSU).  However, you must graduate using a Catalog that is no more than ten years old, so if you will not graduate within ten years of starting at KSU, you will have to move from the Catalog associated with your matriculation date to a newer Catalog.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/admissions</link>
+	</text_row>
+<text_row id="105">
+	<menu_no>84</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Program Information</text_heading>
+	<text_body>&lt;p&gt;&lt;strong&gt;RANKINGS&lt;/strong&gt;&lt;br/&gt;\r\nThe Georgia WebMBA was ranked in the top 20 among &quot;Best Buys&quot; for our quality and competitive pricing among AACSB accredited programs. GeorgiaTrend ranked the WebMBA as one of the nations top internet-based programs.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;CURRICULUM&lt;/strong&gt;&lt;br/&gt;\r\nThe courses in the Georgia WebMBA have the same learning objectives as equivalent in-class courses. They cover the same topics and typically use the same textbooks and course materials. The only difference is the instructional medium. For five consecutive terms, students take two courses each in a lock-step schedule. The schedule leads to graduation in about 20 months.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;CONVENIENCE&lt;/strong&gt;&lt;br/&gt;\r\nThe program relies primarily on virtual team-based learning; after an initial on-site two-day orientation, all activities are exclusively online.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;TUITION AND FEES&lt;/strong&gt;&lt;br/&gt;\r\nTuition for the entire program includes tuition and mandatory fees for five consecutive semesters of two courses each. Costs associated with travel to the program orientation, books and other course materials, and graduation fees are not included in the total. Contact us today for this year\&apos;s tuition rate.&lt;/p&gt;</text_body>
+	<link></link>
+	</text_row>
+<text_row id="120">
+	<menu_no>119</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Orientation</text_heading>
+	<text_body>&lt;p&gt;New Student Orientation&lt;/p&gt;\r\n&lt;p&gt;The goal of the MBA Orientation is for you to be able to take care of all the administrative issues so that you can come to class the first day and be ready to learn. This is a &quot;fair-style&quot; drop-in orientation. Departments and offices will have tables set up and representatives available to answer your questions and provide you with information you will need to get started.&lt;/p&gt;\r\n\r\n&lt;p&gt;Topics of discussion include class selection, registration procedures, alumni services, and other important information. There will also be an opportunity for Q&amp;A. Once accepted into the program you will receive information on the next scheduled orientation session.&lt;/p&gt;</text_body>
+	<link></link>
+	</text_row>
+<text_row id="133">
+	<menu_no>79</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Program Information</text_heading>
+	<text_body>&lt;p&gt;Aggressive business goals require exceptional skills. An Executive MBA from Coles provides the strategic planning, leadership and management expertise to take your career to the next level. You will experience cutting-edge global teaming, program-long executive coaching and a customized curriculum designed for ambitious executives.&lt;/p&gt;\r\n\r\n&lt;p&gt;RANKED - Our Executive MBA program is ranked among the best by CEO magazine, BusinessWeek, and Princeton Review. Chief Executive Magazine recognized Coles as a  &quot;Go-To business school&quot;  and we are accredited by AACSB International.&lt;/p&gt;\r\n\r\n&lt;p&gt;OPTIMAL SCHEDULE - Our accelerated EMBA program is designed for busy executives with a convenient one weekend a month (Saturday/Sunday) format.&lt;/p&gt;\r\n\r\n&lt;p&gt;BUILT FOR BUSINESS - Our customized curriculum is taught from a CEO\&apos;s point of view so you can learn multi-dimensional decision-making and its impact in a competitive and ever changing landscape. Immediately applicable to your career.&lt;/p&gt;\r\n\r\n&lt;p&gt;DEDICATED FACULTY - Not only leaders in academic research and theory, Coles EMBA faculty are sought out by the business community for consulting and known by our students and alumni for their personal attention and accessibility.&lt;/p&gt;\r\n\r\n&lt;p&gt;LEADERSHIP AT WORK - Through interactions with faculty and a personal executive coach, you will hone your leadership style and develop new skills with actionable plans. Enhance your strategic leadership capabilities by leading global and domestic teams throughout the program.&lt;/p&gt;\r\n\r\n&lt;p&gt;PROVEN ROI - Over 94% of students report that their Coles EMBA increased their value to their organization, and 88% reported an increase in their ability to be promoted. &lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="126">
+	<menu_no>125</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Program Information</text_heading>
+	<text_body>&lt;p&gt;&lt;strong&gt;RANKINGS&lt;/strong&gt;&lt;br/&gt;\r\n&lt;u&gt;Businessweek&lt;/u&gt; ranks Coles College MBA 4th in the South and 29th in the United States.\r\nNY Times, &lt;u&gt;Fortune Small Business&lt;/u&gt;, Entrepreneur, CEO Magazine, and The Princeton Review, have all recognized Coles College of Business as a Top Business School. &lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;CURRICULUM&lt;/strong&gt;&lt;br/&gt;\r\nThe foundation of the Coles College MBA consists of 7 required courses: 6 core courses and 1 capstone. In addition to the 7 required courses, you must take 5 electives, one of which must be international in content.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;CONVENIENCE&lt;/strong&gt;&lt;br/&gt;\r\nChoose from online or on-campus programs; classes offered in various locations or an evening class schedule; pre-set step program or a flexible MBA.  No matter where you are, you can earn a graduate business degree from Coles at one of our four locations: Kennesaw, Cobb Galleria, Dalton, and on-line.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;TUITION AND FEES&lt;/strong&gt;&lt;br/&gt;\r\nThe &lt;strong&gt;tuition and fees&lt;/strong&gt; schedule for the Kennesaw and Galleria programs are positioned competitively to provide you with a significant return on this investment. Tuition assistance is available through our Graduate Research Assistantship Program or Returning Peace Corp Volunteer (RPCV) fellowship.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="209">
+	<menu_no>200</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Program Overview</text_heading>
+	<text_body>&lt;p&gt;The Master of Accounting (MAcc) degree program is a professional graduate degree designed to help an individual meet the challenges of a career in accounting, whether public, private, or governmental. &lt;/p&gt;\r\n\r\n&lt;p&gt;The School of Accountancy at Kennesaw State University is home to one of the largest accounting programs in the State of Georgia and offers excellence in accounting education.  Within the Coles College of Business, the Accounting and Business degree programs are fully accredited by AACSB International - The Association to Advance Collegiate Schools of Business.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="214">
+	<menu_no>148</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Current Students</text_heading>
+	<text_body>0</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="215">
+	<menu_no>214</menu_no>
+	<item_order>1</item_order>
+	<text_heading>New Student Orientation</text_heading>
+	<text_body>&lt;p&gt;The goal of the MSIS Orientation is to enable you to take care of the administrative issues as a student of a grad business program in KSU. This is a &quot;fair-style&quot; drop-in orientation. There will be a formal description of the requirements of the program. Departments and offices will also have representatives available to answer your questions and provide you with information you need to get started. &lt;/p&gt;\r\n\r\n&lt;p&gt;Topics of discussion include class selection, registration procedures, alumni services, and other important information. There will also be an opportunity for Q&amp;A. Once accepted into the program you will receive information on the next scheduled orientation session.&lt;/p&gt;\r\n\r\n&lt;p&gt;Note that the university graduate College also conducts a more detailed (registration required) orientation that covers university wide awareness and requirements for a student and you are encouraged to attend one of the sessions there.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="219">
+	<menu_no>218</menu_no>
+	<item_order>1</item_order>
+	<text_heading>Expected Prerequisite Knowledge</text_heading>
+	<text_body>&lt;ul&gt;\r\n&lt;li&gt;Fundamental knowledge of computer information systems&lt;/li&gt;\r\n&lt;li&gt;Quantitative skills including calculus or statistics&lt;/li&gt;\r\n&lt;li&gt;Familiarity and basic skills in Programming&lt;/li&gt;\r\n&lt;li&gt;Familiarity with systems analysis and design methodologies&lt;/li&gt;\r\n&lt;li&gt;Experience using relational or object-based database management systems&lt;/li&gt;\r\n&lt;/ul&gt;</text_body>
+	<link></link>
+	</text_row>
+<text_row id="2">
+	<menu_no>0</menu_no>
+	<item_order>2</item_order>
+	<text_heading>News &amp; Event</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="6">
+	<menu_no>65</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Coles Admission</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="76">
+	<menu_no>2</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Events</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="210">
+	<menu_no>200</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Program Highlights</text_heading>
+	<text_body>&lt;p&gt;The Master of Accounting program is delivered in an accelerated, one-year format during which students complete the program electing one of two specializations - &lt;strong&gt;Financial Reporting and Auditing or Taxation&lt;/strong&gt;. This will prepare you for a specific area of accounting practice without limiting your options.  The MAcc program also offers many added amenities to students, including a professional certification preparation course, textbooks, meals, and the MAcc Travel Experience.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;The MAcc Travel Experience is a unique way to expand your understanding of your field and your network in the accounting professional and standard-setting community. The trip will include visits to corporate and governmental offices that may include Public Company Accounting Oversight Board (PCAOB), Center for Audit Quality (CAQ), Internal Revenue Service (IRS), U.S. Department of the Treasury, and leading accounting firms such as Deloitte &amp; Touche, Ernst &amp; Young, Grant Thornton, KPMG, and Pricewaterhouse Coopers.\r\n&lt;/p&gt;\r\n&lt;p&gt;For a complete course listing select More Info below.&lt;/p&gt;</text_body>
+	<link>http://catalog.kennesaw.edu/preview_program.php?catoid=13&amp;poid=883&amp;returnto=606</link>
+	</text_row>
+<text_row id="38">
+	<menu_no>11</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Accounting</text_heading>
+	<text_body>&lt;p&gt;The objective of Accounting is to provide useful information for decision making. Accountants measure, interpret, and communicate information about organizations. They regularly work with and are a part of top management.&lt;/p&gt;\r\n\r\nUpon graduating, Accounting Majors have a wide range of job options open to them. Many go into public accounting - where accounting firms provide independent auditing, accounting, tax, and consulting services to businesses and other clients. This is the traditional path for becoming a CPA - Certified Public Accountant. Others choose positions in specific companies - becoming managerial, tax, or financial accountants or internal auditors. Still others enter the specialized field of not-for-profit accounting. Coles College Accounting graduates have high CPA Exam pass rates. Accounting also serves as a solid background for graduate work in any business area or in law.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/accounting.htm</link>
+	</text_row>
+<text_row id="50">
+	<menu_no>6</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Admission Checklist</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="53">
+	<menu_no>9</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Advising Traffic</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="55">
+	<menu_no>10</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Career Info</text_heading>
+	<text_body>&lt;p&gt;\r\nThe Coles College provides a career lab in BB 132, across from Einstein\&apos;s Bagels. This convenient location is in addition to the KSU Career Services Center you have access to in Kennesaw Hall (Room 2617).  The Coles College Career Lab provides workshops on career topics and one-on-one help.  In our Lab you can get information about co-op and internship policies, employers, career fairs, resumes, and interviewing skills.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nOne requirement for admission to Coles is registration with KSU Career Services.  You must register in their OwlLink system. Do this by clicking &quot;More Info&quot; below and looking in the Students section of the website.\r\n&lt;/p&gt;</text_body>
+	<link>http://careerctr.kennesaw.edu</link>
+	</text_row>
+<text_row id="66">
+	<menu_no>1</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Graduate</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="72">
+	<menu_no>4</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Walk to Room</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="100">
+	<menu_no>78</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Information Sessions</text_heading>
+	<text_body>&lt;p&gt;The DBA Executive Director and Discipline Program Coordinators will discuss the following topics at the information sessions:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;DBA program history&lt;/li&gt;\r\n&lt;li&gt;How our doctoral program is different from other degree programs&lt;/li&gt;\r\n&lt;li&gt;Unique Features&lt;/li&gt;\r\n&lt;li&gt;Objectives&lt;/li&gt;\r\n&lt;li&gt;Program Format&lt;/li&gt;\r\n&lt;li&gt;Schedule, Tuition, &amp; Fees&lt;/li&gt;\r\n&lt;li&gt;Course Calendar&lt;/li&gt;\r\n&lt;li&gt;Admission process&lt;/li&gt;\r\n&lt;li&gt;Class Profiles&lt;/li&gt;\r\n&lt;li&gt;Question and Answer Session&lt;/li&gt;\r\n&lt;/ul&gt;\r\n\r\n&lt;p&gt;For the next available session and to reserve your seat, select &quot;More Info&quot; below.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/dba/information-sessions.htm</link>
+	</text_row>
+<text_row id="79">
+	<menu_no>66</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Executive MBA Programs</text_heading>
+	<text_body>Info Here</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/</link>
+	</text_row>
+<text_row id="119">
+	<menu_no>117</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Current Students</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="106">
+	<menu_no>79</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Request Brochure</text_heading>
+	<text_body>We are pleased you are researching our top-ranked Executive MBA program.  We highly recommend requesting a brochure via mail and an online version. Please submit your information on our website by clicking on &quot;More Info on Web&quot; below.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/request-information.pl</link>
+	</text_row>
+<text_row id="112">
+	<menu_no>110</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Admissions Criteria</text_heading>
+	<text_body>&lt;p&gt;An admission offer for the Executive MBA program is by select invitation only. Coles rigorously screens candidates to secure the highest caliber of participants.&lt;/p&gt;\r\n\r\n&lt;p&gt;There is no &quot;ideal&quot; profile of an EMBA participant - however we feel strongly that the greater the diversity of the class, the richer the learning experience for you. 25% of our last class hold an advanced degree, 50% have an undergraduate degree other than business.&lt;/p&gt;\r\n\r\nMost Recent Class Profile&lt;br/&gt;\r\n&lt;li&gt;35% Female&lt;/li&gt;\r\n&lt;li&gt;5% Domestic Learning Team is International&lt;/li&gt;\r\n&lt;li&gt;70% Global Learning Team in International&lt;/li&gt;\r\n&lt;li&gt;Average Age 39&lt;/li&gt;\r\n&lt;li&gt;Average Years of Experience 16 (Minimum 7)&lt;/li&gt;\r\n\r\nTo view application requirements and begin your application process, select the More Info option below.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/admission-criteria.htm</link>
+	</text_row>
+<text_row id="135">
+	<menu_no>84</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Admissions Criteria</text_heading>
+	<text_body>&lt;p&gt;Applicants are encouraged to apply as soon as possible, as space is limited and admission decisions are made on a rolling basis.  While admission to the Coles College MBA program is competitive, we\&apos;ve made the application process quite simple. Please visit KSU Graduate Admissions to complete the electronic forms.&lt;/p&gt;\r\n \r\n&lt;p&gt;&lt;strong&gt;Admission to a Coles MBA program is based on the following:&lt;/strong&gt;&lt;br/&gt;\r\n&lt;ol&gt;\r\n&lt;li&gt;Professional Experience &lt;br/&gt;\r\nSubmit an electronic copy of your professional resume&lt;/li&gt;\r\n&lt;li&gt;Academic Background&lt;/li&gt;\r\n&lt;li&gt;The Graduate Management Admission Test (GMAT)&lt;/li&gt;\r\n&lt;/ol&gt;\r\nFor all Coles Graduate Business program applicants, we offer a complimentary four-session GMAT Prep Seminar.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt; Interview&lt;/strong&gt;&lt;br/&gt;\r\nEvaluative interviews are not required; however, interviews may be requested by the MBA Admissions Committee.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="147">
+	<menu_no>119</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Two Year Schedule</text_heading>
+	<text_body>&lt;p&gt;The two-year course schedule is tentative; necessary changes may be required (e.g., due to program enrollment fluctuations, faculty availability, etc.). The mini-mester (i.e., May, August, December), study-abroad, and directed-study courses are NOT listed in this schedule.&lt;/p&gt;\r\n\r\n&lt;p&gt;The official course offerings can be found by selecting More Info below.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/mba/two-year-schedule.htm</link>
+	</text_row>
+<text_row id="127">
+	<menu_no>125</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Admission Criteria</text_heading>
+	<text_body>&lt;p&gt;While admission to the Coles College MBA program is competitive, we\&apos;ve made the application process quite simple. Please visit KSU Graduate Admissions to complete the electronic forms.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Admission to a Coles MBA program is based on the following:&lt;/strong&gt;&lt;br/&gt;\r\n&lt;ol&gt;\r\n&lt;li&gt;Professional Experience&lt;br/&gt;\r\nSubmit an electronic copy of your professional resume&lt;/li&gt;\r\n&lt;li&gt;Academic Background&lt;/li&gt;\r\n&lt;li&gt;The Graduate Management Admission Test (GMAT)&lt;/li&gt;\r\n&lt;/ol&gt;\r\nFor all Coles Graduate Business program applicants, we offer a complimentary four-session GMAT Prep Seminar. \r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Interview &lt;/strong&gt;&lt;br/&gt; \r\nEvaluative interviews are not required; however, interviews may be requested by the MBA Admissions Committee.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="216">
+	<menu_no>214</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Class Schedules</text_heading>
+	<text_body>&lt;p&gt;Please note these are for planning purposes only \r\nKC = Kennesaw Center, H = Hybrid, O/L = On-line&lt;/p&gt;\r\n\r\n&lt;p style=&quot;text-align:center;&quot;&gt;\r\n	&lt;strong&gt;Fall 2012&lt;/strong&gt;\r\n	&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;font-size:80%;table-layout:fixed; text-align:center;&quot;&gt;\r\n		&lt;tr&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;M&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;T&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;W&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;R&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;O/L&lt;/th&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;6:30am&lt;/th&gt;\r\n			&lt;td&gt;8600&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;5pm&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8005(H)&lt;br /&gt;8400(H)&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;8pm&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8800&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8500(H)&lt;br/&gt;8722(H)&lt;br /&gt;8900(KC)&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;O/L&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8200&lt;br /&gt;8700&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n	&lt;/table&gt;\r\n&lt;/p&gt;\r\n&lt;p style=&quot;text-align:center;&quot;&gt;\r\n	&lt;strong&gt;Spring 2013&lt;/strong&gt;\r\n	&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;font-size:80%; table-layout:fixed; text-align:center;&quot;&gt;\r\n		&lt;tr&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;M&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;T&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;W&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;R&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;O/L&lt;/th&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;5pm&lt;/th&gt;\r\n			&lt;td&gt;8800&lt;/td&gt;\r\n			&lt;td&gt;8500(H) &lt;br /&gt;8920(H)&lt;/td&gt;\r\n			&lt;td&gt;8100&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;8pm&lt;/th&gt;\r\n			&lt;td&gt;8400&lt;/td&gt;\r\n			&lt;td&gt;8900(KC)&lt;/td&gt;\r\n			&lt;td&gt;8005&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;O/L&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8930&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n	&lt;/table&gt;\r\n&lt;/p&gt;\r\n&lt;p style=&quot;text-align:center;&quot;&gt;\r\n	&lt;strong&gt;Summer 2013&lt;/strong&gt;\r\n	&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;font-size:80%; table-layout:fixed; text-align:center;&quot;&gt;\r\n		&lt;tr&gt;\r\n			&lt;th width=&quot;33.3%&quot;&gt;&lt;/th&gt;\r\n			&lt;th width=&quot;33.3%&quot;&gt;MTWR&lt;/th&gt;\r\n			&lt;th width=&quot;33.3%&quot;&gt;O/L&lt;/th&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;5pm&lt;/th&gt;\r\n			&lt;td&gt;8600&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;8pm&lt;/th&gt;\r\n			&lt;td&gt;8100&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;O/L&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8200 &lt;br /&gt;8300&lt;br /&gt;8700&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n	&lt;/table&gt;\r\n&lt;/p&gt;\r\n&lt;p style=&quot;text-align:center;&quot;&gt;\r\n	&lt;strong&gt;Fall 2013&lt;/strong&gt;\r\n	&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;font-size:80%; table-layout:fixed; text-align:center;&quot;&gt;\r\n		&lt;tr&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;M&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;T&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;W&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;R&lt;/th&gt;\r\n			&lt;th width=&quot;16.6%&quot;&gt;O/L&lt;/th&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;6:30am&lt;/th&gt;\r\n			&lt;td&gt;8600&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;5pm&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8005(H)&lt;br /&gt;8400(H)&lt;/td&gt;\r\n			&lt;td&gt;8722(H)&lt;br /&gt;8500(H)&lt;/td&gt;\r\n			&lt;td&gt;8800&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;8pm&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8900(KC)&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n		&lt;tr&gt;\r\n			&lt;th&gt;O/L&lt;/th&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;&lt;/td&gt;\r\n			&lt;td&gt;8200&lt;br /&gt;8300&lt;br /&gt;8700&lt;/td&gt;\r\n		&lt;/tr&gt;\r\n	&lt;/table&gt;\r\n&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="218">
+	<menu_no>148</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Prospective Students</text_heading>
+	<text_body>0</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="220">
+	<menu_no>218</menu_no>
+	<item_order>2</item_order>
+	<text_heading>Curriculum</text_heading>
+	<text_body>&lt;p&gt;&lt;u&gt;Core Requirements (9 classes/27 credit hours)&lt;/u&gt;&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;IS 8005 - Informatics (take in 1st semester)&lt;/li&gt;\r\n&lt;li&gt;IS 8100 - Advanced IT Project Mgt&lt;/li&gt;\r\n&lt;li&gt;IS 8200 - Legal &amp; Ethical Issues in IS&lt;/li&gt;\r\n&lt;li&gt;IS 8300 - Disaster Recovery/Business Continuity Planning&lt;/li&gt; \r\n&lt;li&gt;IS 8400 - Enterprise Process Models&lt;/li&gt;\r\n&lt;li&gt;IS 8500 - Emerging Technologies&lt;/li&gt;\r\n&lt;li&gt;IS 8600 - Global IS Management&lt;/li&gt;\r\n&lt;li&gt;IS 8700 - IS Strategy Capstone Course&lt;/li&gt;\r\n&lt;li&gt;IS 8800 - IT Leadership Capstone Course &lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;br/&gt;\r\n\r\n&lt;p&gt;&lt;u&gt;Elective Classes (3 classes/9 credit hours)&lt;/u&gt;&lt;/p&gt;\r\n\r\n&lt;p&gt;9 semester hours from non-premium graduate courses at KSU, including:\r\n&lt;ul&gt;\r\n&lt;li&gt;IS 8916/18 - Co-op/Internship (max 3 hrs credit)&lt;/li&gt;\r\n&lt;li&gt;IS 8920 - Customer Relationship Mgt&lt;/li&gt;\r\n&lt;li&gt;IS 8930 - Information Security Admin&lt;/li&gt;\r\n&lt;li&gt;IS 8722 - E-Business Systems Strategy&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;Students can take courses outside the department to acquire technology leadership capabilities with expertise in Six Sigma, SAS, auditing, governance, project management, leadership, or other areas. Prior permission is required to take courses outside of the department. Students should contact the MSIS Program Director before registering for non-MSIS courses.&lt;/p&gt;\r\n\r\n&lt;p&gt;By taking courses outside the department, KSU MSIS students can combine.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="4">
+	<menu_no>0</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Maps &amp; Directions</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="7">
+	<menu_no>65</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Registration</text_heading>
+	<text_body>Make sure the KSU Registration System is open and you are eligible to register.</text_body>
+	<link></link>
+	</text_row>
+<text_row id="74">
+	<menu_no>6</menu_no>
+	<item_order>3</item_order>
+	<text_heading>GPA Calculator</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="211">
+	<menu_no>200</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Information Sessions</text_heading>
+	<text_body>&lt;p&gt;KSU Master of Accounting information sessions provide an in-depth look at the MAcc program\&apos;s benefits, delivery, coursework, and application process.  Information Sessions take place during the fall and spring semester, and are updated regularly.&lt;/p&gt;\r\n\r\n&lt;p&gt;To see upcoming MAcc Information Sessions, and to RSVP for the events, select More Info below.&lt;/p&gt;</text_body>
+	<link>http://kennesawgrad.askadmissions.net/Portal/EI/Search</link>
+	</text_row>
+<text_row id="39">
+	<menu_no>11</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Economics</text_heading>
+	<text_body>&lt;p&gt;Economics is the study of how and why households and businesses decide what to produce, how to produce it, and how to share it. In other words, Economics is the study of mankind going about its daily business of making a living.&lt;/p&gt;\r\n\r\nThe study of Economics prepares students for careers in management, marketing, financial research, economic planning, and human resources, with employers in industry, trade, banking, and government. It also prepares students for graduate study in economics, law, and business [MBA]. Within the Economics Major there is a broad range of intellectual challenges. Branches of Economics overlap such diverse areas as politics, mathematics, finance, sociology, history, international business, management, and psychology.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/economics.htm</link>
+	</text_row>
+<text_row id="56">
+	<menu_no>10</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Academic Departments</text_heading>
+	<text_body>&lt;p&gt;\r\nThe Coles College of Business houses five academic departments:  The School of Accountancy, the Department of Economics, Finance &amp; Quantitative Analysis, the Department of Information Systems, the Department of Management &amp; Entrepreneurship, and the Department of Marketing &amp; Professional Sales.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nEach of these units has a website with information about their faculty, programs, and special initiatives.  At their websites they also provide a Tentative Two-Year Undergraduate Course Schedule to help you with your schedule planning.\r\n&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/departments_faculty/</link>
+	</text_row>
+<text_row id="84">
+	<menu_no>66</menu_no>
+	<item_order>3</item_order>
+	<text_heading>WebMBA Program</text_heading>
+	<text_body>Info Here</text_body>
+	<link>http://coles.kennesaw.edu/graduate/mba/web.htm</link>
+	</text_row>
+<text_row id="101">
+	<menu_no>78</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Selection Criteria</text_heading>
+	<text_body>&lt;p&gt;The Coles College of Business DBA admission process is highly competitive and designed to identify applicants with the background and experience necessary to complete the requirements of a rigorous doctoral degree program.&lt;/p&gt;\r\n\r\n&lt;p&gt;Admission is based on a number of factors including:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Academic record and work history&lt;/li&gt;\r\n&lt;li&gt;Career objectives and research interests&lt;/li&gt;\r\n&lt;li&gt;Commitment to an intellectually demanding program of study&lt;/li&gt;\r\n&lt;li&gt;Letters of recommendation&lt;/li&gt;\r\n&lt;li&gt;Overall standing compared to other applicants&lt;/li&gt;\r\n&lt;li&gt;Quality and depth of your research interest overview&lt;/li&gt;\r\n&lt;li&gt;Number of vacancies in the program for a given year&lt;/li&gt;\r\n&lt;/ul&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/dba/criteria.htm</link>
+	</text_row>
+<text_row id="107">
+	<menu_no>79</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Information Sessions</text_heading>
+	<text_body>&lt;p&gt;Coles Executive MBA integrates executive-level business tools across broad management platforms enabling its graduates to make confident strategic decisions. Our program combines the business acumen you are looking for and the leadership and professional skills you need to get ahead.&lt;/p&gt;\r\n\r\n&lt;p&gt;Meet our Admissions Team, faculty, students and alumni at our next information session to learn more. If none of our scheduled events work for you, we encourage you to contact us for an interview or class visit.&lt;/p&gt;\r\n\r\nRSVP for an information session by selecting the More Info option below.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/information-sessions.htm</link>
+	</text_row>
+<text_row id="113">
+	<menu_no>110</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Interview Information</text_heading>
+	<text_body>&lt;p&gt;It is never too soon to interview for the Coles Executive MBA. We treat the interview as a two way street where you get to learn about us and we get to learn about you. While you do not have to interview prior to submitting your application materials an interview is required prior to an admissions decision.&lt;/p&gt;\r\n&lt;p&gt;Simply contact the Executive MBA Admissions Team to set up an interview. The team will ask you to submit your resume prior to meeting, using the resume as a baseline for discussions and exploration.&lt;/p&gt;\r\nTo schedule your interview, select the More Info option below.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/interviews.htm</link>
+	</text_row>
+<text_row id="122">
+	<menu_no>119</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Course Checklist</text_heading>
+	<text_body>&lt;strong&gt;Curriculum&lt;/strong&gt; \r\n\r\n&lt;p&gt;Our world-class curriculum is designed to improve your business acumen. The foundation of the Coles MBA consists of 7 required courses: 6 core courses and 1 capstone. In addition to the 7 required courses, you must take 5 electives, one of which must be international in content. Click More Info to access the Graduate catalog.&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;u&gt;Degree Core Requirements&lt;/u&gt;&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;ACCT 8000: Accounting Insights for Managers&lt;/li&gt;\r\n&lt;li&gt;ECON 8010: Resource Allocation and Decision Analysis&lt;/li&gt;\r\n&lt;li&gt;FIN 8020: Business Finance &lt;/li&gt;\r\n&lt;li&gt;MGT 8040: Managing the Value Chain &lt;/li&gt;\r\n&lt;li&gt;MGT 8050: Managing and Leading Work Behavior&lt;/li&gt; \r\n&lt;li&gt;MKTG 8030: Strategic Marketing &lt;/li&gt;\r\n&lt;li&gt;MGT 8999: Strategic Management: An Integrative, Capstone Experience&lt;/li&gt;\r\n&lt;/ul&gt;</text_body>
+	<link>http://catalog.kennesaw.edu/index.php?catoid=7</link>
+	</text_row>
+<text_row id="137">
+	<menu_no>84</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Apply Now</text_heading>
+	<text_body>&lt;p&gt;The Georgia WebMBA offers qualified and highly motivated professionals the opportunity to earn a Coles Master of Business Administration (MBA) degree through online education. Students experience the rigor and commitment to quality of our traditional campus programs without the constraints of a regimented classroom schedule.&lt;/p&gt;\r\n\r\n&lt;p&gt;Click More Info to begin your application process.&lt;/p&gt;</text_body>
+	<link>http://www.kennesaw.edu/graduate/admissions/onlineapplication.shtml</link>
+	</text_row>
+<text_row id="125">
+	<menu_no>117</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Prospective Students</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="128">
+	<menu_no>125</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Information Sessions</text_heading>
+	<text_body>&lt;p&gt;Selecting a MBA program can be a challenging process. At our information sessions, we will introduce you to Kennesaw State and the Coles College, discuss the application process, and introduce you to the courses and processes that comprise the MBA program.&lt;/p&gt;\r\n\r\n&lt;p&gt;To view upcoming session select More Info below.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/mba/information-sessions.htm</link>
+	</text_row>
+<text_row id="217">
+	<menu_no>214</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Contact Us</text_heading>
+	<text_body>&lt;p&gt;Graduate Business and Executive Programs Office&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Tasha Bruner&lt;/strong&gt;&lt;br/&gt;\r\ntbruner@kennesaw.edu&lt;br/&gt;\r\n770.420.4471&lt;br/&gt;&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Claude Leveque&lt;/strong&gt;&lt;br/&gt;\r\ncleveque@kennesaw.edu&lt;br/&gt;\r\n770.420.4470&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="221">
+	<menu_no>218</menu_no>
+	<item_order>3</item_order>
+	<text_heading>Tuition and Fees</text_heading>
+	<text_body>&lt;p&gt;The tuition and fees  of Kennesaw MSIS program is competitively priced to offer very high value for your money. Tuition assistance is available through our Graduate Research Assistantship Program or Returning Peace Corp Volunteer (RPCV) fellowship.&lt;/p&gt;\r\n\r\n&lt;p&gt;For tuition and fees select More Info below.&lt;/p&gt;</text_body>
+	<link>http://www.kennesaw.edu/graduate/research_assistantships.shtml</link>
+	</text_row>
+<text_row id="3">
+	<menu_no>0</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Directory</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="212">
+	<menu_no>200</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Applicant Profile</text_heading>
+	<text_body>&lt;p&gt;Applicants to the MAcc program should possess a commitment to the development of advanced technical and professional skills in accounting.  The Master of Accounting program is designed for students with an accounting degree from an accredited institution of higher learning.  Students who do not hold an undergraduate degree in Accounting should successfully complete the following undergraduate accounting courses prior to enrolling in the MAcc program:&lt;/p&gt;\r\n\r\n&lt;ul&gt;\r\n&lt;li&gt;Intermediate Accounting I&lt;/li&gt;\r\n&lt;li&gt;Intermediate Accounting II&lt;/li&gt;\r\n&lt;li&gt;Accounting Information Systems&lt;/li&gt;\r\n&lt;li&gt;Taxation&lt;/li&gt;\r\n&lt;li&gt;Auditing and Assurance&lt;/li&gt;\r\n&lt;/ul&gt;\r\n\r\n&lt;p&gt;Applicant selection will also be based on the following: a competitive Accounting GPA and GMAT score, essay, resume, and the ability to participate in a cohort program where class contribution is critical.&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="40">
+	<menu_no>11</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Finance</text_heading>
+	<text_body>&lt;p&gt;Finance has evolved into an analytical discipline dealing with the acquisition and disbursement of funds. The field of Finance shares common borders with at least three other disciplines. Imports include financial analysis from Accounting, risk quantification and valuation theory from Economics, and financing techniques and market savvy from Investments.&lt;/p&gt;\r\n\r\nMany financial executives rise to the top of the organizational chart. The Finance Major prepares students for careers as bankers, stockbrokers, financial analysts, portfolio managers, financial consultants, investment bankers, and personal financial planners. It also prepares them for graduate study in business or law.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/finance.htm</link>
+	</text_row>
+<text_row id="57">
+	<menu_no>10</menu_no>
+	<item_order>4</item_order>
+	<text_heading>KSU Library</text_heading>
+	<text_body>Click More Info below.</text_body>
+	<link>http://www.kennesaw.edu/library/</link>
+	</text_row>
+<text_row id="103">
+	<menu_no>78</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Admission Process</text_heading>
+	<text_body>&lt;p&gt;The DBA four-step application process is designed to determine if applicants have the skills and interests necessary to succeed in the program. Admission decisions for each step are made only after receipt of required documents for that step.&lt;/p&gt;\r\n\r\nSTEP 1 | INITIAL QUALIFICATIONS&lt;br/&gt;\r\n-Attend Information Session&lt;br/&gt;\r\n-Complete Application&lt;br/&gt;\r\n-Submit Resume and Cover Letter&lt;br/&gt;\r\n-Request Academic Transcripts&lt;br/&gt;\r\n-Submit Statement of Interest&lt;br/&gt;\r\n-Request Two Letters of Recommendation&lt;br/&gt;\r\nSTEP 2 | RESEARCH WORKSHOP &amp; RESEARCH INTEREST OVERVIEW&lt;br/&gt;\r\nSTEP 3 | INTERVIEW&lt;br/&gt;\r\nSTEP 4 | OFFER &amp; COMMITMENT&lt;br/&gt;\r\n\r\n&lt;p&gt;Apply to the DBA program using the KSU Graduate Programs application by selecting &quot;More Info&quot; below&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/dba/admission-process.htm</link>
+	</text_row>
+<text_row id="110">
+	<menu_no>79</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Apply to Program</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="139">
+	<menu_no>84</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Contact Us</text_heading>
+	<text_body>&lt;p&gt;&lt;strong&gt;Claude Leveque&lt;/strong&gt;&lt;br/&gt;\r\ncleveque@kennesaw.edu&lt;br/&gt;\r\nMBA Program Coordinator&lt;br/&gt;\r\n770.420.4470&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="123">
+	<menu_no>119</menu_no>
+	<item_order>4</item_order>
+	<text_heading>Petition to Graduate</text_heading>
+	<text_body>&lt;p&gt;Every Coles College graduate student must submit the PETITION TO GRADUATE FORM the semester before you plan to graduate. The Petition to Graduate deadlines for each semester are listed in the Academic Calendar on the Registrar\&apos;s website. The most up to date graduation information can also be found on the Registrar\&apos;s website under &quot;Quick Links&quot;.&lt;/p&gt;\r\n\r\n&lt;p&gt;After the Registrar\&apos;s Office has completed an administrative audit of your records, you will be notified in writing of your graduation status. It is the student\&apos;s responsibility to inform the Registrar\&apos;s Office of any changes in your graduation plans. &lt;/p&gt;\r\n\r\n&lt;p&gt;To complete your form select More Info below.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/mba/petition.htm</link>
+	</text_row>
+<text_row id="129">
+	<menu_no>125</menu_no>
+	<item_order>4</item_order>
+	<text_heading>GMAT Seminar</text_heading>
+	<text_body>&lt;p&gt;Are you READY for the GMAT?&lt;br/&gt;\r\nContact us now to reserve your seat in our FREE GMAT PREP seminar series. These seminars are available to everyone who completes the online application form for the MBA program. You may submit the remaining documents, such as transcripts and your resume, at a later date. &lt;/p&gt;\r\n\r\n&lt;p&gt;For the current schedule and to attend 4-sessions taught at the Kennesaw State University campus select More Info below.&lt;/p&gt;</text_body>
+	<link>http://coles.kennesaw.edu/graduate/mba/ksu-gmat.htm</link>
+	</text_row>
+<text_row id="9">
+	<menu_no>65</menu_no>
+	<item_order>5</item_order>
+	<text_heading>Advising</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="16">
+	<menu_no>5</menu_no>
+	<item_order>5</item_order>
+	<text_heading>Online Options</text_heading>
+	<text_body>&lt;p&gt;\r\nThe Coles College offers online versions of several of its courses.  Online courses are the same as the courses offered on campus.  They are offered on the same semester schedule as on-campus courses and meet the same learning objectives.  Many students combine on-campus and online classes in their schedule, based on their needs and preferences.  The same B.B.A. degree is conferred, whether earned with online or on-campus courses (or a mix).\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nAll of the required B.B.A. courses making up the Lower Division Business Core and Upper Division Business Core are available online.  The only business Major currently available completely online is Management.  Students who wish to major in Management and complete their degree totally online should sign up for the KSU Web Learners Program. \r\n&lt;/p&gt;\r\n\r\n\r\n&lt;p&gt;\r\nStudents must already be accepted by KSU and in good standing to participate in the KSU Web Learners Program.  Students in this Program are eligible for a special priority registration period prior to Early Registration, starting with their second term at KSU.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nOnly Management Majors can sign up for the KSU Web Learners Program, but all business majors are welcome to sign up for online business courses.  If you can arrange your schedule so that you are taking only online courses in a particular term, KSU will identify you as an &quot;online only&quot; student for that term and you will not have to pay the parking fee.\r\n&lt;/p&gt;</text_body>
+	<link>https://web.kennesaw.edu/registrar/students/web_learner_main</link>
+	</text_row>
+<text_row id="42">
+	<menu_no>11</menu_no>
+	<item_order>5</item_order>
+	<text_heading>Information Security &amp; Assurance</text_heading>
+	<text_body>&lt;p&gt;The Major in Information Security &amp; Assurance develops information security professionals capable of managing the risks associated with modern information usage. Information security is the protection of the confidentiality, integrity, and availability of information while in transmission, storage or processing. Information assurance concerns information operations that protect and defend information and information systems by ensuring availability, integrity, authentication, confidentiality, and nonrepudiation. This program spans both areas in its approach to the protection of information in the organization.&lt;/p&gt;\r\n\r\nThe Committee on National Security Systems and the National Security Agency have certified that Kennesaw State University offers a set of courseware that has been reviewed by National Level Information Assurance Subject Matter Experts and determined to meet National Training Standard for Information Systems Security Professionals (NSTISSI 4011, and CNSS 4012, 4013E, 4014E). KSU is also designated as a National Center of Academic Excellence in Information Assurance as recognized by the National Security Agency and the Department of Homeland Security.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/information-security-assurance.htm</link>
+	</text_row>
+<text_row id="58">
+	<menu_no>10</menu_no>
+	<item_order>5</item_order>
+	<text_heading>KSU Registrar</text_heading>
+	<text_body>Click More Info below.</text_body>
+	<link>https://web.kennesaw.edu/registrar/</link>
+	</text_row>
+<text_row id="213">
+	<menu_no>200</menu_no>
+	<item_order>5</item_order>
+	<text_heading>Contact Us</text_heading>
+	<text_body>&lt;p&gt;&lt;strong&gt;Dr. Kathryn Epps, Director School of Accountancy&lt;/strong&gt;&lt;br/&gt;\r\n770.423.6084&lt;br/&gt;\r\nKSUMacc@kennesaw.edu&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Katherine Acuff, Program Manager - Master of Accounting&lt;/strong&gt;&lt;br/&gt;\r\n770.423.6860&lt;br/&gt;\r\nkacuff@kennesaw.edu&lt;/p&gt;</text_body>
+	<link>0</link>
+	</text_row>
+<text_row id="114">
+	<menu_no>79</menu_no>
+	<item_order>5</item_order>
+	<text_heading>Financial Aid</text_heading>
+	<text_body>&lt;p&gt;Many of our applicants come from companies that offer some form of tuition reimbursement plan. The Coles Executive MBA has experience working within the frameworks of your company\&apos;s plan and can help you coordinate payments.&lt;/p&gt;\r\n\r\n&lt;p&gt;We encourage all applicants to apply for financial aid through the main campus financial aid office website. Coles College EMBA program meets the needs of executives by providing a dedicated Financial Aid advisor.&lt;/p&gt;\r\n\r\nVisit our EMBA Financial Aid website for details on the process by selecting the More Info option below.</text_body>
+	<link>http://coles.kennesaw.edu/graduate/emba/tuition-and-financing.htm</link>
+	</text_row>
+<text_row id="130">
+	<menu_no>125</menu_no>
+	<item_order>5</item_order>
+	<text_heading>Apply Now</text_heading>
+	<text_body>&lt;p&gt;Enroll today in a fast and flexible MBA. Now, a world class Masters of Business Administration program is within your reach. Fitting your graduate degree into your busy schedule, part-or full time, has never been more convenient. You will be joining the thousands of alumni who made Kennesaw State University the 4th fastest growing university in the United States and Coles College of Business the second largest business school in the state of Georgia. &lt;/p&gt;\r\n\r\n&lt;p&gt;To begin your application process, select More Info below.&lt;/p&gt;</text_body>
+	<link>http://www.kennesaw.edu/graduate/admissions/onlineapplication.shtml</link>
+	</text_row>
+<text_row id="10">
+	<menu_no>65</menu_no>
+	<item_order>6</item_order>
+	<text_heading>Resources</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="17">
+	<menu_no>5</menu_no>
+	<item_order>6</item_order>
+	<text_heading>Minors and Certificates</text_heading>
+	<text_body>&lt;p&gt;\r\nBusiness majors are not required to have a Minor or Certificate.  However, these options can enhance your career preparation.  They require between 15 and 24 semester hours, and those hours will not all fit within the 123 hours you take for your B.B.A. degree.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;Coles offers Minors in 9 areas:&lt;/p&gt;\r\n&lt;ul&gt;\r\n   &lt;li&gt;Accounting&lt;/li&gt;\r\n   &lt;li&gt;Business Law&lt;/li&gt;\r\n   &lt;li&gt;Economics&lt;/li&gt;\r\n   &lt;li&gt;Finance&lt;/li&gt;\r\n   &lt;li&gt;Information Systems&lt;/li&gt;\r\n   &lt;li&gt;Information Security &amp; Assurance&lt;/li&gt;\r\n&lt;li&gt;Management&lt;/li&gt;\r\n&lt;li&gt;Marketing&lt;/li&gt;\r\n&lt;li&gt;Professional Sales&lt;/li&gt;\r\n&lt;/ul&gt;\r\n\r\n&lt;p&gt;\r\nColes offers Certificates in 2 areas:\r\n&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Information Security&lt;/li&gt;\r\n&lt;li&gt;Information Technology&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;\r\nColes also offers the Music &amp; Entertainment Business Certificate as a joint venture with the KSU College of the Arts.\r\n&lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nFor more information about each of these options, go to the online KSU Undergraduate Catalog and select &quot;Academic Programs &amp; Majors&quot; from the menu on the right.\r\n&lt;/p&gt;</text_body>
+	<link>http://catalog.kennesaw.edu</link>
+	</text_row>
+<text_row id="41">
+	<menu_no>11</menu_no>
+	<item_order>6</item_order>
+	<text_heading>Information Systems</text_heading>
+	<text_body>&lt;p&gt;The Major in Information Systems (IS) provides a sound foundation in information technology (IT) principles and practice. The emphasis is on applications of information technology rather than the computer itself.&lt;/p&gt;\r\n\r\nGraduates have capabilities in systems analysis and design, database management, and IT project management.  Students completing the BBA in IS may choose to pursue graduate studies in IT, business, and related fields, or they may choose to begin careers in industry, government, or other agencies.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/information-systems.htm</link>
+	</text_row>
+<text_row id="222">
+	<menu_no>79</menu_no>
+	<item_order>6</item_order>
+	<text_heading>Contact Us</text_heading>
+	<text_body>&lt;p&gt;The Admissions Team for the Coles Executive MBA is a seasoned group dedicated to bringing the very best experienced professionals to the Coles Executive MBA experiential classroom. Our Admissions Team is dedicated solely to Coles Executive MBA prospects, applicants and their needs. Coles treats admissions as a two way street, where we learn about you and you learn about us to determine if we are a match, often before an application is ever submitted. How may we assist you? &lt;/p&gt;\r\n\r\nAlvin Miles&lt;br/&gt;\r\nDirector of Business Development&lt;br/&gt;\r\nExecutive MBA Program&lt;br/&gt;\r\nacm0996@kennesaw.edu&lt;br/&gt;\r\nPhone: 678.797.2886&lt;br/&gt;&lt;br/&gt;\r\n\r\nJulie Miller&lt;br/&gt;\r\nBusiness Development Coordinator&lt;br/&gt;\r\nExecutive MBA Program&lt;br/&gt;\r\njmill191@kennesaw.edu&lt;br/&gt;\r\nPhone: 770.423.6862&lt;br/&gt;&lt;br/&gt;\r\n\r\nSamantha Fox&lt;br/&gt;\r\nAdmissions Manager&lt;br/&gt;\r\nExecutive MBA Program&lt;br/&gt;\r\nsfox14@kennesaw.edu&lt;br/&gt;\r\nPhone: 678.797.2326&lt;br/&gt;&lt;br/&gt;</text_body>
+	<link></link>
+	</text_row>
+<text_row id="8">
+	<menu_no>65</menu_no>
+	<item_order>7</item_order>
+	<text_heading>FAQs</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="43">
+	<menu_no>11</menu_no>
+	<item_order>7</item_order>
+	<text_heading>International Business</text_heading>
+	<text_body>&lt;p&gt;Business has gone global.  Thanks to the internet, even small businesses may have suppliers or customers in multiple countries.  Multinational companies have operations in multiple countries. As a result, there is increasing demand for people with knowledge of the international environment and business activities.&lt;/p&gt;\r\n\r\nThe International Business (IB) Major is designed for students who are actively seeking to focus their education on the international dimensions of business.  It combines extensive study of international issues with depth in one of the traditional functional areas.  Foreign language proficiency and an International Study Experience are required.  The IB Major provides students with the skills and knowledge necessary to succeed in our world of complex competitive environments, diverse cultures, and integrated business decisions.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/ibusiness.htm</link>
+	</text_row>
+<text_row id="44">
+	<menu_no>11</menu_no>
+	<item_order>8</item_order>
+	<text_heading>Management</text_heading>
+	<text_body>&lt;p&gt;Management is the process of planning, organizing, staffing, directing, and controlling activities in an organization which will result in the achievement of a common goal. Managers make decisions and direct resources so that organizational goals and objectives are obtained.&lt;/p&gt;\r\n\r\nThe Management Major allows for specialization in the areas of human resource management, entrepreneurship, or operations &amp; supply chain management. The study of Management provides skills and knowledge useful in all areas of business.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/management.htm</link>
+	</text_row>
+<text_row id="117">
+	<menu_no>66</menu_no>
+	<item_order>8</item_order>
+	<text_heading>MBA</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="124">
+	<menu_no>119</menu_no>
+	<item_order>8</item_order>
+	<text_heading>Contact Us</text_heading>
+	<text_body>&lt;p&gt;Graduate Business and Executive Programs Office&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Tasha Bruner&lt;/strong&gt;&lt;br/&gt;\r\ntbruner@kennesaw.edu&lt;br/&gt;\r\nMBA Assistant Director&lt;br/&gt;            \r\n770.420.4471&lt;/p&gt;     \r\n\r\n&lt;p&gt;&lt;strong&gt;Claude Leveque&lt;/strong&gt;&lt;br/&gt;\r\ncleveque@kennesaw.edu&lt;br/&gt;\r\nMBA Program Coordinator&lt;br/&gt;             \r\n770.420.4470&lt;/p&gt;</text_body>
+	<link></link>
+	</text_row>
+<text_row id="132">
+	<menu_no>125</menu_no>
+	<item_order>8</item_order>
+	<text_heading>Contact Us</text_heading>
+	<text_body>&lt;p&gt;Graduate Business and Executive Programs Office&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Tasha Bruner&lt;/strong&gt;&lt;br/&gt;\r\ntbruner@kennesaw.edu&lt;br/&gt;\r\nMBA Assistant Director&lt;br/&gt; \r\n770.420.4471&lt;/p&gt;\r\n\r\n&lt;p&gt;&lt;strong&gt;Claude Leveque&lt;/strong&gt;&lt;br/&gt;\r\ncleveque@kennesaw.edu&lt;br/&gt;\r\nMBA Program Coordinator&lt;br/&gt; \r\n770.420.4470&lt;/p&gt;</text_body>
+	<link></link>
+	</text_row>
+<text_row id="45">
+	<menu_no>11</menu_no>
+	<item_order>9</item_order>
+	<text_heading>Marketing</text_heading>
+	<text_body>&lt;p&gt;Marketing is concerned with the development, delivery, promotion and exchange of a company\&apos;s goods and services. As a result, marketing is the pivotal function within the firm that generates income for the business and delivers a standard of living. It includes many non-promotional activities such as research, physical distribution, and pricing as applied to goods and services, in both profit and nonprofit contexts.&lt;/p&gt;\r\n\r\nCareer opportunities include such diverse areas as retail store management, industrial selling, marketing research, advertising, and others. Various courses offer students the opportunity to learn to assess competitive markets, manage and control merchandise, design and deliver effective sales presentations, and manage a sales force. Other courses offer practical insights into the workings of the direct mail industry, advertising, and public relations.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/marketing.htm</link>
+	</text_row>
+<text_row id="148">
+	<menu_no>66</menu_no>
+	<item_order>9</item_order>
+	<text_heading>MSIS</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+<text_row id="69">
+	<menu_no>11</menu_no>
+	<item_order>10</item_order>
+	<text_heading>Professional Sales</text_heading>
+	<text_body>&lt;p&gt;The focus of the Professional Sales Program is on business-to-business marketing or organizational marketing. In addition, the program addresses relationship selling, establishing long-term mutually satisfying business relationships. The foundation for this is providing creative and cost effective solutions to the customer\&apos;s important problems.&lt;/p&gt;\r\n\r\nThe Professional Sales Major can lead to a personally satisfying and financially rewarding career in sales, sales management, and marketing. Professional Sales is the most common entry-level position in many companies for college students. Further, there are more job openings in professional sales than in any other marketing area. Thus, the Professional Sales Major provides an avenue of entry into corporations and positions in other marketing functions.</text_body>
+	<link>http://coles.kennesaw.edu/undergraduate/programs/professionalsales.htm</link>
+	</text_row>
+<text_row id="200">
+	<menu_no>66</menu_no>
+	<item_order>10</item_order>
+	<text_heading>Master in Accounting</text_heading>
+	<text_body></text_body>
+	<link></link>
+	</text_row>
+</textData>

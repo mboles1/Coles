@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/scroller" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:fillViewport="true">
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:layout_height="match_parent"
+		android:orientation="vertical">
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView1" android:text="Click on Majors for more info" android:textColor="#FF9900"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="Accounting" android:onClick="clickHandler" android:textColor="#FFFF00" android:id="@+id/accounting" android:clickable="true"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView2" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="The objective of Accounting is to provide useful information for decision making. Accountants measure, interpret, and communicate information about organizations. They regularly work with and are a part of top management. People who get advice from accountants and who use their work include investors, creditors, company owners and managers, as well as the government. All business majors at KSU take two Accounting courses - Introduction to Financial Accounting and Introduction to Managerial Accounting. After completing these courses, students should have the basic understanding of Accounting necessary to support any business major. Upon graduating, Accounting Majors have a wide range of job options open to them. Many go into public accounting - where accounting firms provide independent auditing, accounting, tax, and consulting services to businesses and other clients. This is the traditional path for becoming a CPA - Certified Public Accountant. Others choose positions in specific companies - becoming managerial, tax, or financial accountants or internal auditors. Still others enter the specialized field of not-for-profit accounting. Coles College Accounting graduates have high CPA Exam pass rates. Accounting also serves as a solid background for graduate work in any business area or in law."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Economics"
+			android:textColor="#FFFF00" android:id="@+id/economics" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView4" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Economics is the study of how and why households and businesses decide what to produce, how to produce it, and how to share it. In other words, Economics is the study of mankind going about its daily business of making a living. The study of Economics prepares students for careers in management, marketing, financial research, economic planning, and human resources, with employers in industry, trade, banking, and government. It also prepares students for graduate study in economics, law, and business [MBA]. Within the Economics Major there is a broad range of intellectual challenges. Branches of Economics overlap such diverse areas as politics, mathematics, finance, sociology, history, international business, management, and psychology."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Finance"
+			android:textColor="#FFFF00" android:id="@+id/finance" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView6" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Finance has evolved into an analytical discipline dealing with the acquisition and disbursement of funds. The field of Finance shares common borders with at least three other disciplines. Imports include financial analysis from Accounting, risk quantification and valuation theory from Economics, and financing techniques and market savvy from Investments. Many financial executives rise to the top of the organizational chart. The Finance Major prepares students for careers as bankers, stockbrokers, financial analysts, portfolio managers, financial consultants, investment bankers, and personal financial planners. It also prepares them for graduate study in business or law."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Information Systems"
+			android:textColor="#FFFF00" android:id="@+id/informationSystems" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView8" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="The BBA degree in information systems (IS) provides a sound foundation in information technology (IT) principles and practice. The emphasis is on applications of information technology rather than the computer itself. Students earning a BBA in information systems understand web and application development in the context of the business environment. Graduates have capabilities in systems analysis and design, database management, and IT project management. Students also have the opportunity to consider information systems strategy in the global environment and bring everything together into an IS capstone course. Students completing the BBA in IS may choose to pursue graduate studies in IT, business, and related fields, or they may choose to begin careers in industry, government, or other agencies. Graduates of the IS program are prepared for a variety of careers in IS and IT, especially in the design, implementation, and management of IT projects. Example job titles include application developer, application support, business analyst, business intelligence manager, client services analyst, database administrator, database analyst, information resource manager, IT consultant, programmer/analyst, project manager, quality assurance analyst, systems analyst, user support analyst, web developer, web page designer, and webmaster."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Information Security &amp; Assurance"
+			android:textColor="#FFFF00" android:id="@+id/isa" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView10" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="The Bachelor of Business Administration in Information Security and Assurance (BBA-ISA) develops technologically proficient, business-savvy information security professionals capable of applying policy, education &amp; training, and technology solutions to protect information assets from all aspects of threats, and to manage the risks associated with modern information usage. Information security is the protection of the confidentiality, integrity, and availability of information while in transmission, storage or processing, through the application of policy, technology, and education and awareness. Information assurance concerns information operations that protect and defend information and information systems by ensuring availability, integrity, authentication, confidentiality, and nonrepudiation. This program spans both areas in its approach to the protection of information in the organization. The Committee on National Security Systems and the National Security Agency have certified that Kennesaw State University offers a set of courseware that has been reviewed by National Level Information Assurance Subject Matter Experts and determined to meet National Training Standard for Information Systems Security Professionals (NSTISSI 4011, and CNSS 4012, 4013E, 4014E). KSU is also designated as a National Center of Academic Excellence in Information Assurance as recognized by the National Security Agency and the Department of Homeland Security."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="International Business"
+			android:textColor="#FFFF00" android:id="@+id/internationalBusiness" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView12" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Business has gone global. Multinational companies have offices in multiple countries. Thanks to the internet, even small businesses may have suppliers or customers in multiple countries. As a result, there is increasing demand for people with knowledge of the international environment and business activities. The International Business Major combines extensive study of international issues with one of the traditional functional areas. It provides students with the skills and knowledge necessary to succeed in our world of complex competitive environments, diverse cultures, and integrated business decisions."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Management"
+			android:textColor="#FFFF00" android:id="@+id/management" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView14" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Management is the process of planning, organizing, staffing, directing, and controlling activities in an organization which will result in the achievement of a common goal. Managers make decisions and direct resources so that organizational goals and objectives are obtained. The Management Major allows for specialization in the areas of human resource management and development, operations management, international management, and entrepreneurship. The Department of Management &amp; Entrepreneurship has nationally recognized courses and activities in entrepreneurship and small business management for the student who wants to start his/her own business. The study of Management provides skills and knowledge useful in all areas of business."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Marketing"
+			android:textColor="#FFFF00" android:id="@+id/marketing" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView16" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Marketing is concerned with the development, delivery, promotion and exchange of a company's goods and services. As a result, marketing is the pivotal function within the firm that generates income for the business and delivers a standard of living. The term &quot;marketing&quot; in a broad sense includes individuals' or organizations' activities which encourage and facilitate exchanges of values. This includes many non-promotional activities such as research, physical distribution, and pricing as applied to goods and services, in both profit and nonprofit contexts. Career opportunities include such diverse areas as retail store management, industrial selling, marketing research, advertising, and others. Various courses offer students the opportunity to learn to assess competitive markets, manage and control merchandise, design and deliver effective sales presentations, and manage a sales force. Other courses offer practical insights into the workings of the direct mail industry, advertising, and public relations."></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Professional Sales"
+			android:textColor="#FFFF00" android:id="@+id/professionalSales" android:clickable="true" android:onClick="clickHandler"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:id="@+id/textView18" android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="The focus of the Professional Sales Program is on business-to-business marketing or organizational marketing. In addition, the program addresses relationship selling, establishing long-term mutually satisfying business relationships. The foundation for this is providing creative and cost effective solutions to the customer's important problems. The Professional Sales Major can lead to a personally satisfying and financially rewarding career in sales, sales management, and marketing. Professional Sales is the most common entry-level position in many companies for college students. Further, there are more job openings in professional sales than in any other marketing area. Thus, the Professional Sales Major provides an avenue of entry into corporations and positions in other marketing functions."></TextView>
+	</LinearLayout>
+
+</ScrollView>

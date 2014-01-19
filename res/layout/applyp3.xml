@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="105dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/black"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/homeBTN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="5dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/home" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="GPA Calculator"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#EEB211"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:text="Coles College of Business"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp" >
+
+        <LinearLayout android:id="@+id/relativeLayout1"
+		android:layout_height="wrap_content" android:layout_width="match_parent"
+		android:orientation="vertical">
+		<RadioGroup android:id="@+id/GPAradio01"
+			android:layout_width="match_parent" android:layout_height="wrap_content"
+			android:orientation="vertical">
+			<TextView android:text="@string/applyGPA01" android:id="@+id/GPAView01" android:textColor="#EEB211"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+			<RadioButton android:id="@+id/catTerm1"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCatTerm1" />
+			<RadioButton android:id="@+id/catTerm2"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCatTerm2" />
+			<RadioButton android:id="@+id/catTerm3"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCatTerm3" />
+		</RadioGroup>
+		<TextView android:id="@+id/horizontal02" android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+
+
+		<TextView android:id="@+id/GPAView02" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA02"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow02"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel02"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs02"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus02" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus02" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow02"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel02"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio02"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_02"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_02"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_02"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_02"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+		<TextView android:id="@+id/GPAView03" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA03"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow03"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel03"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs03"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus03" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus03" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow03"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel03"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio03"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_03"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_03"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_03"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_03"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:id="@+id/horizontal03" android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+		<TextView android:id="@+id/GPAView04" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA04"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow04"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel04"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs04"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus04" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus04" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow04"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel04"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio04"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_04"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_04"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_04"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_04"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+
+		<TextView android:id="@+id/GPAView05" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA05"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow05"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel05"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs05"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus05" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus05" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow05"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel05"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio05"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_05"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_05"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_05"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_05"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+
+		<TextView android:id="@+id/GPAView06" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA06"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow06"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel06"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs06"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus06" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus06" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow06"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel06"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio06"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_06"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_06"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_06"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_06"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+
+		<TextView android:id="@+id/GPAView07" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA07"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow07"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel07"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs07"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus07" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus07" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow07"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel07"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio07"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_07"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_07"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_07"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_07"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+
+		<TextView android:id="@+id/GPAView08" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA08"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:orientation="horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent"
+			android:id="@+id/GPAhrsRow08">
+			<TextView android:gravity="left" android:id="@+id/GPAhrsLabel08"
+				android:textSize="20.1sp" android:layout_height="wrap_content"
+				android:layout_width="wrap_content" android:text="@string/applyCredHours"></TextView>
+			<TextView android:gravity="left" android:id="@+id/GPAcredhrs08"
+				android:textSize="20.1sp" android:layout_height="wrap_content"
+				android:layout_width="wrap_content"></TextView>
+			<Button android:id="@+id/crHrPlus08" android:layout_marginTop="5dp"
+				android:paddingTop="10dp" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_height="wrap_content"
+				android:layout_width="50dp"></Button>
+			<Button android:id="@+id/crHrMinus08"
+				android:layout_marginTop="5dp" android:paddingTop="10dp"
+				android:text="@string/btnMinus" android:textSize="25sp"
+				android:layout_height="wrap_content" android:layout_width="50dp"></Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow08"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel08"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio08"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_08"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_08"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_08"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_08"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+		<TextView android:id="@+id/GPAView09" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/applyGPA09"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+		<LinearLayout android:id="@+id/GPAhrsRow09"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAhrsLabel09"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyCredHours" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<TextView android:id="@+id/GPAcredhrs09"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" android:textSize="20.1sp" android:gravity="left">
+			</TextView>
+			<Button android:id="@+id/crHrPlus09" android:text="@string/btnPlus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+			<Button android:id="@+id/crHrMinus09" android:text="@string/btnMinus"
+				android:textSize="25sp" android:layout_width="50dp"
+				android:layout_height="wrap_content" android:layout_marginTop="5dp"
+				android:paddingTop="10dp">
+			</Button>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/GPAgradeRow09"
+			android:orientation="horizontal" android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TextView android:id="@+id/GPAgradeLabel09"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="@string/applyGrade" android:textSize="20.1sp"
+				android:gravity="left">
+			</TextView>
+			<RadioGroup android:id="@+id/GPAradio09"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="horizontal">
+				<RadioButton android:id="@+id/grade_A_09"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeA" />
+				<RadioButton android:id="@+id/grade_B_09"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeB" />
+				<RadioButton android:id="@+id/grade_C_09"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeC" />
+				<RadioButton android:id="@+id/grade_NA_09"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="@string/applyGradeNA" />
+			</RadioGroup>
+		</LinearLayout>
+		<TextView android:background="@drawable/horizontal"
+			android:layout_height="wrap_content" android:layout_width="match_parent" />
+
+
+
+
+
+		<TextView android:id="@+id/applySummaryHead"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="@string/applySummaryHead" android:layout_gravity="center_horizontal"
+			android:textSize="20.1sp" android:textStyle="bold"
+			android:paddingTop="10dp" android:gravity="left">
+		</TextView>
+		<TextView android:id="@+id/GPAgrandMessage"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="" android:textSize="20.1sp" android:paddingTop="20dp"
+			android:gravity="left" android:textColor="#EEB211">
+		</TextView>
+	</LinearLayout>
+   
+</ScrollView>
+</RelativeLayout>
+

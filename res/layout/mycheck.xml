@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:background="#FFFFFF"
+	android:layout_width="fill_parent" android:layout_height="match_parent">
+	<TextView android:id="@+id/textView2" android:text="Please enter your information in the first blank of each row."
+		android:textAppearance="?android:attr/textAppearanceMedium" android:textColor="#000000"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	<ScrollView android:id="@+id/scrollView1" android:layout_width="match_parent" android:layout_height="wrap_content">
+		<LinearLayout android:id="@+id/linearLayout1" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+			<TableLayout android:id="@+id/tableLayout1" android:layout_width="match_parent" android:layout_height="wrap_content">
+				<TableRow android:id="@+id/tableRow1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="Postpaid Activation+Future Revenue"></TextView>
+					<EditText android:id="@+id/editText1" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText2" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView3" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="New Value Plan w/200mb"></TextView>
+					<EditText android:id="@+id/editText3" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText4" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView4" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="New Value Plan w/2gb or Unl"></TextView>
+					<EditText android:id="@+id/editText5" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText8" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow4" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView5" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="New Value Plan w/5gb or 10gb"></TextView>
+					<EditText android:id="@+id/editText6" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText7" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow5" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView6" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="Handset Upgrade count"></TextView>
+					<EditText android:id="@+id/editText9" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText10" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow6" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView7" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="Handeset Upgrade w/EIP"></TextView>
+					<EditText android:id="@+id/editText11" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText12" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow7" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView8" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="Prepaid Plan Revenue"></TextView>
+					<EditText android:id="@+id/editText13" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp">
+						<requestFocus></requestFocus>
+					</EditText>
+					<EditText android:id="@+id/editText14" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow8" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView9" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="PayGo/Features/Day Pas"></TextView>
+					<EditText android:id="@+id/editText15" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText16" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow9" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView10" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="18+ Month Renewal"></TextView>
+					<EditText android:id="@+id/editText17" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText18" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+				<TableRow android:id="@+id/tableRow10" android:layout_width="wrap_content" android:layout_height="wrap_content">
+					<TextView android:id="@+id/textView11" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_height="wrap_content" android:textColor="#000000" android:layout_width="0dp" android:layout_weight="2" android:text="Accessory Sales"></TextView>
+					<EditText android:id="@+id/editText19" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp"></EditText>
+					<EditText android:id="@+id/editText20" android:layout_height="wrap_content" android:layout_weight="2" android:layout_width="0dp" android:focusable="false"></EditText>
+				</TableRow>
+			</TableLayout>
+			<TableRow android:id="@+id/tableRow11" android:layout_width="match_parent" android:layout_height="wrap_content">
+				<TextView android:id="@+id/textView12" android:text="Total: " android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:textStyle="bold" android:layout_width="wrap_content"></TextView>
+				<TextView android:id="@+id/textView13" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:textStyle="bold" android:layout_width="wrap_content"></TextView>
+			</TableRow>
+		</LinearLayout>
+	</ScrollView>
+
+</LinearLayout>

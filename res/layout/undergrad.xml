@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<LinearLayout
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:background="@drawable/undergrad" android:layout_height="match_parent">
+	<RelativeLayout android:id="@+id/relativeLayout1"
+		android:layout_height="match_parent" android:layout_width="match_parent">
+		<ImageButton android:id="@+id/programs" android:layout_height="45sp" android:src="@drawable/programs" android:layout_width="273sp" android:background="@null" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:layout_marginTop="135dp"></ImageButton>
+		<ImageButton android:id="@+id/admissionToColes" android:layout_height="45sp" android:src="@drawable/admission" android:layout_width="wrap_content" android:background="@null" android:layout_below="@+id/programs" android:layout_centerHorizontal="true"></ImageButton>
+		<ImageButton android:id="@+id/registration" android:layout_height="45sp" android:src="@drawable/registration" android:layout_width="wrap_content" android:background="@null" android:layout_below="@+id/admissionToColes" android:layout_centerHorizontal="true"></ImageButton>
+		<ImageButton android:id="@+id/advising" android:layout_height="45sp" android:src="@drawable/advising" android:layout_width="wrap_content" android:background="@null" android:layout_below="@+id/registration" android:layout_centerHorizontal="true"></ImageButton>
+		<ImageButton android:id="@+id/resources" android:layout_height="45sp" android:src="@drawable/resources" android:layout_width="wrap_content" android:background="@null" android:layout_below="@+id/advising" android:layout_centerHorizontal="true"></ImageButton>
+		<ImageButton android:id="@+id/temp" android:layout_height="45sp" android:src="@drawable/menumiddle" android:layout_width="wrap_content" android:background="@null" android:layout_below="@+id/resources" android:layout_centerHorizontal="true"></ImageButton>
+		<ImageButton android:id="@+id/faq" android:layout_height="wrap_content" android:src="@drawable/faq" android:layout_width="wrap_content" android:background="@null" android:layout_below="@+id/temp" android:layout_centerHorizontal="true"></ImageButton>
+	</RelativeLayout>
+		
+</LinearLayout>
+</ScrollView>

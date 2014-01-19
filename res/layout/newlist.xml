@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	 <TextView
+	        android:id="@+id/textView1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentTop="true"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginTop="5dp"
+	        android:text="                      News"
+	        android:textStyle="bold"
+	          
+	        android:textAppearance="?android:attr/textAppearanceLarge" >
+	    </TextView>
+
+	 <Button
+	     android:id="@+id/news1"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"	     
+	     android:layout_marginTop="20dp"
+	      android:layout_marginBottom="20dp"
+	       android:layout_marginLeft="10dp"
+	    
+	     android:text="  KSU&apos;s part-time and Executive MBAs recognized         in Bloomberg Businessweek rankings                   "
+	     android:textColor="@android:color/white" />
+	 <Button
+	     android:id="@+id/news2"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	     android:layout_below="@+id/news1"
+	         android:layout_marginBottom="20dp"  android:layout_marginLeft="5dp"
+	    android:text="Georgia manufacturing index up 4.9 points in January                                                                     "
+	     
+	      android:textColor="@android:color/white" />
+	 
+  <Button
+	     android:id="@+id/news3"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	      android:layout_marginBottom="20dp"
+	       android:layout_below="@+id/news2" 
+	      android:text="Kennesaw State students work as promoters, agents for new local artists                                "
+	       
+	     android:textColor="@android:color/white" />
+ 
+   <Button
+	     android:id="@+id/news4"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	       android:layout_marginBottom="20dp"
+	       android:layout_below="@+id/news3"  android:layout_marginLeft="10dp"
+	     android:text="   Education Abroad Broadens Horizons"
+	     android:textColor="@android:color/white" />
+  
+    <Button
+	     android:id="@+id/news5"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	           android:layout_marginBottom="20dp"
+	            android:layout_centerHorizontal="false"
+	       android:layout_below="@+id/news4"  android:layout_marginLeft="10dp"
+	     android:text="   Back to School at the Galleria"
+	     android:textColor="@android:color/white" />
+    <Button
+	     android:id="@+id/news6"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:background="@android:color/black"
+	         android:layout_marginBottom="20dp"  android:layout_marginLeft="10dp"
+	       android:layout_below="@+id/news5"  android:layout_centerHorizontal="false"
+	     android:text="   Georgia manufacturing ticks up"
+	     android:textColor="@android:color/white" />
+    
+    
+		  
+</LinearLayout>

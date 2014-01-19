@@ -1,0 +1,71 @@
+<sql>
+<Text>
+CREATE TABLE IF NOT EXISTS Text (
+        Text_No INTEGER PRIMARY KEY AUTOINCREMENT, 
+        Menu_No INTEGER, 
+        Item_Order INTEGER, 
+        Heading TEXT, 
+        Body TEXT, 
+        Link TEXT)
+</Text>
+<Text>INSERT INTO Text VALUES(1, 0, 1, 'Undergraduate Programs','','')</Text>
+<Text>INSERT INTO Text VALUES(2, 0, 2, 'News Events','','')</Text>
+<Text>INSERT INTO Text VALUES(3, 0, 3, 'Directory','','')</Text>
+<Text>INSERT INTO Text VALUES(4, 0, 4, 'Tools','','')</Text>
+<Text>INSERT INTO Text VALUES(5, 1, 1, 'Programs','','')</Text>
+<Text>INSERT INTO Text VALUES(6, 1, 2, 'Coles Admission','','')</Text>
+<Text>INSERT INTO Text VALUES(7, 1, 3, 'Registration','','')</Text>
+<Text>INSERT INTO Text VALUES(8, 1, 7, 'FAQs','','faq')</Text>
+<Text>INSERT INTO Text VALUES(9, 1, 5, 'Advising','','advising')</Text>
+<Text>INSERT INTO Text VALUES(10, 1, 6, 'Resources','','resources')</Text>
+<Text>INSERT INTO Text VALUES(11, 5, 1, 'B.B.A. Program','','')</Text>
+<Text>INSERT INTO Text VALUES(12, 4, 1, 'Advising Traffic','','')</Text>
+<Text>INSERT INTO Text VALUES(13, 4, 2, 'Directions','','')</Text>
+<Text>INSERT INTO Text VALUES(14, 4, 3, 'Admission Checklist','','')</Text>
+<Text>INSERT INTO Text VALUES(15, 4, 4, 'Virtual Tour','','')</Text>
+<Text>INSERT INTO Text VALUES(16, 5, 2, 'Online Options','','')</Text>
+<Text>INSERT INTO Text VALUES(17, 5, 3, 'Minors and Certificates','','')</Text>
+<Text>INSERT INTO Text VALUES(18, 6, 1, 'Coles Admission','Text about Coles Admission','')</Text>
+<Text>INSERT INTO Text VALUES(19, 7, 1, 'Registration Heading','Registration text','http://registration.link.kennesaw.edu')</Text>
+<Text>INSERT INTO Text VALUES(20, 7, 4, 'More Info','','')</Text>
+<Text>INSERT INTO Text VALUES(21, 7, 2, 'More Info','','')</Text>
+<Text>INSERT INTO Text VALUES(22, 7, 3, 'More Info','','')</Text>
+<Text>INSERT INTO Text VALUES(23, 59, 3, 'Another Question','another answer.','')</Text>
+<Text>INSERT INTO Text VALUES(24, 60, 3, 'FAQ # 5','Answer','')</Text>
+<Text>INSERT INTO Text VALUES(25, 60, 4, 'FAQ # 6','Answer.','with link')</Text>
+<Text>INSERT INTO Text VALUES(26, 52, 1, 'Overview','','')</Text>
+<Text>INSERT INTO Text VALUES(27, 52, 2, 'Override Information','','')</Text>
+<Text>INSERT INTO Text VALUES(28, 52, 3, 'Course Re-Enrollment Info','','')</Text>
+<Text>INSERT INTO Text VALUES(29, 52, 4, 'Web Learner Information','','')</Text>
+<Text>INSERT INTO Text VALUES(34, 16, 1, 'Overview','Overview text','http://some.link.com/')</Text>
+<Text>INSERT INTO Text VALUES(35, 17, 3, 'Certificate 1 text.','Certificate 1 text.','')</Text>
+<Text>INSERT INTO Text VALUES(36, 17, 4, 'Certificate 2','Certificate 2 text.','')</Text>
+<Text>INSERT INTO Text VALUES(37, 11, 1, 'General Info Heading','General Info text.','0')</Text>
+<Text>INSERT INTO Text VALUES(38, 11, 2, 'Accounting','Accounting text','accounting link')</Text>
+<Text>INSERT INTO Text VALUES(39, 11, 3, 'Economics','Economics text.','Economics link')</Text>
+<Text>INSERT INTO Text VALUES(40, 11, 4, 'Finance','Finance text.','Finance link.')</Text>
+<Text>INSERT INTO Text VALUES(41, 11, 5, 'Information Systems','Information Systems text.','Information Systems link')</Text>
+<Text>INSERT INTO Text VALUES(42, 11, 6, 'Information Security \&amp; Assurance','Information Security \&amp; Assurance text.','Information Security \&amp; Assurance link')</Text>
+<Text>INSERT INTO Text VALUES(43, 11, 7, 'International Business','International Business text.','International Business link')</Text>
+<Text>INSERT INTO Text VALUES(44, 11, 8, 'Management','Management text.','Management link')</Text>
+<Text>INSERT INTO Text VALUES(45, 11, 9, 'Marketing','Marketing text.','Marketing link')</Text>
+<Text>INSERT INTO Text VALUES(46, 16, 1, 'Online Option 1','Online Option 1 text.','Online Option 1 link')</Text>
+<Text>INSERT INTO Text VALUES(47, 16, 2, 'Online Option 2','Online Option 2 text.','Online Option 2 link')</Text>
+<Text>INSERT INTO Text VALUES(48, 17, 1, 'Minor 1','Minor 1 text','Minor 1 link')</Text>
+<Text>INSERT INTO Text VALUES(49, 17, 2, 'Minor 2','Minor 2 text','Minor 2 link')</Text>
+<Text>INSERT INTO Text VALUES(50, 18, 1, 'Admission Checklist','','Admission Checklist link')</Text>
+<Text>INSERT INTO Text VALUES(51, 18, 2, 'Sophomore GPA Calculator','You must have at least a \&quot;C\&quot; grade in each of the required courses. You must also meet the minimum GPA on the set of required courses. The calculation depends on your Matriculation Date or Catalog Term.','0')</Text>
+<Text>INSERT INTO Text VALUES(52, 9, 1, 'Advising','Advising text.','0')</Text>
+<Text>INSERT INTO Text VALUES(53, 9, 2, 'Advising Traffic','0','0')</Text>
+<Text>INSERT INTO Text VALUES(54, 10, 1, 'Tutoring','Tutoring text.','Tutoring link')</Text>
+<Text>INSERT INTO Text VALUES(55, 10, 2, 'Career Info 1','Career Info 1 text','Career Info 1 link')</Text>
+<Text>INSERT INTO Text VALUES(56, 10, 3, 'Coles Academic Departments','0','0')</Text>
+<Text>INSERT INTO Text VALUES(57, 10, 4, 'KSU Library','link to site','Library link')</Text>
+<Text>INSERT INTO Text VALUES(58, 10, 5, 'KSU Registrar','link to site','link to site')</Text>
+<Text>INSERT INTO Text VALUES(59, 8, 1, 'FAQ Head 1','0','0')</Text>
+<Text>INSERT INTO Text VALUES(60, 8, 2, '2nd Group of FAQs','0','0')</Text>
+<Text>INSERT INTO Text VALUES(61, 59, 1, 'Question 1','Answer 1','0')</Text>
+<Text>INSERT INTO Text VALUES(62, 59, 2, 'Question 2','Answer 2','0')</Text>
+<Text>INSERT INTO Text VALUES(63, 60, 1, 'Question 3','Answer 3','0')</Text>
+<Text>INSERT INTO Text VALUES(64, 60, 2, 'Question 4','Answer 4','0')</Text>
+</sql>

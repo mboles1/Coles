@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="coles.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+   
+- 
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:testOnly="false" >
+- 
+        <activity
+            android:name=".ColesActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+- 
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="main"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="undergradActivity"
+            android:label="Undergraduate Menu" />
+        <activity
+            android:name="programsActivity"
+            android:label="Programs Menu" />
+        <activity android:name="advisingActivity" />
+        <activity android:name="advisingCenter" />
+        <activity android:name="resourcesActivity" />
+        <activity android:name="DataBaseHelper" />
+        <activity
+            android:name="NewsAndEvents"
+            android:label="News and Events"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ToolsActivity"
+            android:label="Tools" />
+        <activity android:name="http" />
+        <activity android:name="newsListActivity" />
+        <activity android:name="Data" />
+        <activity android:name="DataHandler" />
+        <activity android:name="EditEntry" />
+        <activity android:name="eventListActivity" />
+        <activity android:name="RSSFeed" />
+        <activity android:name="RSSItem" />
+        <activity android:name="RSSHandler" />
+        <activity android:name="CampusDirectionActivity" />
+        <activity
+            android:name="FloorMapActivity"
+            android:label="Walk to 4th floor BB-403"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="FloorMapWithQRActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="QRActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="SearchActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="SearchResultActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="WalkManagerActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="WalkToBldgActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="WalkToRmActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="WalkToRmQRActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="majorsActivity"
+            android:label="Majors" />
+        <activity
+            android:name="DirectoryActivity"
+            android:label="Directory" />
+        <activity
+            android:name="RegistrationInfo" android:launchMode="standard"/>
+        <activity android:name="DirectoryContent" />
+        <activity android:name="DirectoryReports" />
+        <activity android:name="EmployeeAction" />
+        <activity android:name="FacultyDetails" />
+        <activity android:name="BaseFeedParser" />
+        <activity android:name="DomFeedParser" />
+        <activity android:name="FAQInfo" />
+        <activity android:name="FeedParser" />
+        <activity android:name="FeedParserFactory" />
+        <activity android:name="Message" />
+        <activity
+            android:name="MessageList"
+            android:label="News" />
+        <activity android:name="newsrss1" />
+        <activity android:name="ParserType" />
+        <activity android:name="SaxFeedParser" />
+        <activity android:name="XmlPullFeedParser" />
+        <activity android:name="Applyp1Activity" />
+        <activity android:name="Applyp2Activity" />
+        <activity
+            android:name="Applyp3Activity"
+            android:label="GPA Calculator" />
+        <activity
+            android:name="Applyp4Activity"
+            android:label="Admission Checklist" />
+        <activity
+            android:name="MessageEvents"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="closedTraffic"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity android:name="openTraffic" />
+        <activity
+            android:name="TrafficClassActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity android:name="Tutoring" />
+        <activity
+            android:name="faq"
+            android:label="FAQ" />
+        <activity
+            android:name="accounting"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="economics"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="Finance"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="informationSystems"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="ISA"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="internationalBusiness"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="management"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="marketing"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="colesDepartments"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity android:name="TrafficHttpClient" />
+        <activity android:name="newsHardListActivity" />
+        <activity android:name="OnlineOptions" />
+        <activity android:name="Minors" />
+        <activity
+            android:name="FAQActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity android:name="TrafficIntentService" />
+        <activity 
+            android:name = "Registration" 
+            android:label = "Registration"/>
+        <activity android:name="CareerInfo" />
+        <activity
+            android:name="MessageNews"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity android:name="TrafficPseudoInitialScreen" />
+        <activity
+            android:name="ProfessionalSales"
+            android:label="Professional Sales" />
+        <activity android:name="ViewFullDirectoryEntry" >
+        </activity>
+        <activity android:name="WebViewActivity" ></activity>
+        <activity
+            android:name="MenuActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+
+
+        <service android:name=".TrafficIntentService" />
+    </application>
+
+</manifest>

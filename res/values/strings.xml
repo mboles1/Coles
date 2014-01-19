@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coles</string>
+    <string name="android_sax">Android SAX</string>
+    <string name="sax">Classic SAX</string>
+    <string name="dom">DOM</string>
+    <string name="pull">XML Pull</string>
+    <string name="A1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec nisi diam, non scelerisque purus. Curabitur vitae justo eu nunc bibendum iaculis non ut libero. Vestibulum rutrum, nunc laoreet cursus mollis, arcu libero condimentum purus, sed commodo massa massa in felis. Maecenas ut tellus at velit convallis sollicitudin.</string>
+    <string name="Accounting">The objective of Accounting is to provide useful information for decision making. Accountants measure, interpret, and communicate information about organizations. They regularly work with and are a part of top management. People who get advice from accountants and who use their work include investors, creditors, company owners and managers, as well as the government. All business majors at KSU take two Accounting courses - Introduction to Financial Accounting and Introduction to Managerial Accounting. After completing these courses, students should have the basic understanding of Accounting necessary to support any business major.</string>
+    <string name="Economics">casdcsad</string>
+    <string name="Finance">sfgsgvad</string>
+    <string name="IS">bfgxbxfgb</string>
+    <string name="ISA">sdvgsfdf</string>
+    <string name="IB">fhnfgh</string>
+    <string name="Management">fghnfgn</string>
+    <string name="Marketing">dlkfjgbvf</string>
+    <string name="goto_building">Walk to Building</string>
+    <string name="goto_rm">Walk to Room</string>
+    <string name="search_hint">Search</string>
+    <string name="by_building_name">Building Name</string>
+    <string name="by_building_number">Building Number</string>
+    <string name="search">Search</string>
+    <string name="walk_to_build">Walk To Building</string>
+    <string name="walk_to_rm">Walk To Room</string>
+    <string name="room_num_radio">Room Number</string>
+    <string name="room_emp_name">Employee Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="depart_intro">Department: </string>
+    <string-array name="building_array">
+        <item >Science</item>
+        <item >Clendenin</item>
+        <item >Burruss</item>
+        <item >English</item>
+    </string-array>
+    <string name="building_spinner_prompt">Select Building</string>
+    <string name="campus_map">Go to Campus Map</string>
+    
+</resources>

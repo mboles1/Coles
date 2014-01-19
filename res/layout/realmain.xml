@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" android:background="@drawable/realbackground"
+	android:weightSum="1">
+	<RelativeLayout android:layout_height="fill_parent"
+		android:id="@+id/relativeLayout1" android:layout_weight="1.04"
+		android:layout_width="match_parent">
+		<LinearLayout android:orientation="vertical"
+			android:layout_alignParentRight="true" android:background="@color/black"
+			android:id="@+id/linearLayout1" android:layout_alignParentTop="true"
+			android:layout_width="100dp" android:layout_height="match_parent" android:weightSum="0.4"
+			android:gravity="center_vertical">
+			<ImageButton android:layout_height="wrap_content"
+				android:layout_marginTop="10dp" android:layout_gravity="center_horizontal" android:layout_weight="0.1"
+				android:background="@android:color/transparent" android:layout_width="wrap_content"
+				android:src="@drawable/realundergrad" android:id="@+id/undergradBTN"></ImageButton>
+			<TextView android:layout_width="wrap_content" android:text="Academic Programs"
+				android:gravity="center_horizontal" android:layout_gravity="center_horizontal"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_height="wrap_content" android:id="@+id/textView1"
+				android:textStyle="bold" android:textColor="#FFFFFF"></TextView>
+			<ImageButton android:layout_width="wrap_content"  android:layout_weight="0.1"
+				android:layout_marginTop="28dp" android:src="@drawable/realnews"
+				android:layout_height="wrap_content" android:background="@android:color/transparent"
+				android:layout_gravity="center_horizontal" android:id="@+id/newsBTN"></ImageButton>
+			<TextView android:layout_width="wrap_content" android:text="News &amp; \nEvents"
+				android:layout_gravity="center_horizontal" android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_height="wrap_content" android:id="@+id/textView2"
+				android:gravity="center_horizontal" android:textStyle="bold"
+				android:textColor="#FFFFFF"></TextView>
+			<ImageButton android:layout_height="wrap_content" android:layout_weight="0.1"
+				android:layout_marginTop="28dp" android:layout_gravity="center_horizontal"
+				android:background="@android:color/transparent" android:layout_width="wrap_content"
+				android:src="@drawable/realdirections" android:id="@+id/mapsBTN"></ImageButton>
+			<TextView android:layout_width="wrap_content" android:text="Maps &amp; Directions"
+				android:gravity="center_horizontal" android:layout_gravity="center_horizontal"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_height="wrap_content" android:id="@+id/textView3"
+				android:textStyle="bold" android:textColor="#FFFFFF"></TextView>
+			<ImageButton android:layout_height="wrap_content" android:layout_weight="0.1"
+				android:layout_marginTop="28dp" android:layout_width="wrap_content"
+				android:layout_gravity="center_horizontal" android:background="@android:color/transparent"
+				android:src="@drawable/realdirectory" android:id="@+id/directoryBTN"></ImageButton>
+			<TextView android:layout_width="wrap_content" android:text="Directory"
+				android:layout_gravity="center_horizontal" android:textAppearance="?android:attr/textAppearanceSmall"
+				android:layout_height="wrap_content"
+				android:id="@+id/textView4" android:layout_alignParentBottom="true"
+				android:textStyle="bold" android:textColor="#FFFFFF"></TextView>
+		</LinearLayout>
+
+		<ImageView
+		    android:id="@+id/imageView1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentLeft="true"
+		    android:layout_alignParentTop="true"
+		    android:layout_toLeftOf="@+id/linearLayout1"
+		    android:gravity="center"
+		    android:paddingTop="10dp"
+		    android:src="@drawable/coles2" />
+
+	</RelativeLayout>
+
+</LinearLayout>

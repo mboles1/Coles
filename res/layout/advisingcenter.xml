@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:text="The Business Undergraduate Advising Center is located on the 4th floor of the Burruss Building (BB). Stop by to:"
+		android:layout_height="76dp"></TextView>
+	<TextView android:id="@+id/textView6" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:textColor="#FF9900" android:text="-Declare or change a Major"></TextView>
+	<TextView android:id="@+id/textView2" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:text="-Pick up checksheets and sample 4-year plans for your major"
+		android:textColor="#00FFFF"></TextView>
+	<TextView android:id="@+id/textView3" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:text="-Request an “audited checksheet” showing what courses you have credit for and what courses you have left to take for your BBA"
+		android:textColor="#FFFF00"></TextView>
+	<TextView android:id="@+id/textView4" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:text="-Pick up and submit your application form to the Coles Professional Program"
+		android:textColor="#FF00FF"></TextView>
+	<TextView android:id="@+id/textView5" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:text="-Arrange to meet with an advisor" android:textColor="#FF0000"></TextView>
+	<TextView android:id="@+id/textView7" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_marginTop="15dp
+		" android:text="Check in at the desk (BB 431)"></TextView>
+	<Button android:id="@+id/info1" android:layout_width="match_parent" android:text="More Info" android:layout_height="wrap_content"></Button>
+
+</LinearLayout>

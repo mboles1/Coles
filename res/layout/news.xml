@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="News"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" >
+        </TextView>
+
+        <Button
+            android:id="@+id/news0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="15dp"
+            android:background="@android:color/black"
+            android:text="More News..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="50dp"
+            android:text="KSU&apos;s part-time and Executive MBAs recognized in Bloomberg Businessweek rankings"
+            android:textAppearance="?android:attr/textAppearanceSmall" >
+        </TextView>
+
+        <Button
+            android:id="@+id/news1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView2"
+            android:background="@android:color/black"
+            android:text="More..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="105dp"
+            android:text="Georgia manufacturing index up 4.9 points in January"
+            android:textAppearance="?android:attr/textAppearanceSmall" >
+        </TextView>
+
+        <Button
+            android:id="@+id/news2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView3"
+            android:background="@android:color/black"
+            android:text="More..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="160dp"
+            android:text="Kennesaw State students work as promoters, agents for new local artists"
+            android:textAppearance="?android:attr/textAppearanceSmall" >
+        </TextView>
+
+        <Button
+            android:id="@+id/news3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView4"
+            android:background="@android:color/black"
+            android:text="More..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="230dp"
+            android:text="Events"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" >
+        </TextView>
+
+        <Button
+            android:id="@+id/news00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="235dp"
+            android:background="@android:color/black"
+            android:text="More Events..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="275dp"
+            android:text="Coles College Breakfast Series                              Date:February 14th, 2012"
+            android:textAppearance="?android:attr/textAppearanceSmall" >
+        </TextView>
+
+        <Button
+            android:id="@+id/events1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView5"
+            android:background="@android:color/black"
+            android:text="More..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="325dp"
+            android:text="Dalton MBA Information Session                             Date:February 15th, 2012"
+            android:textAppearance="?android:attr/textAppearanceSmall" >
+        </TextView>
+
+        <Button
+            android:id="@+id/events2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView6"
+            android:background="@android:color/black"
+            android:text="More..  "
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="380dp"
+            android:text="Executive MBA Information Session                              Date:February 14th, 2012"
+            android:textAppearance="?android:attr/textAppearanceSmall" >
+        </TextView>
+
+        <Button
+            android:id="@+id/events3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView7"
+            android:background="@android:color/black"
+            android:text="More..  "
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+</LinearLayout>

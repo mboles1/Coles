@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:gravity="center_horizontal|top" android:orientation="vertical">
+	<RelativeLayout android:layout_width="match_parent"
+		android:id="@+id/relativeLayout1" android:layout_height="match_parent">
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="30sp" android:id="@+id/textView1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="Alphabetical List View" android:layout_alignParentTop="true"
+			android:layout_centerHorizontal="true" android:layout_marginTop="72dp"></TextView>
+		<ImageView android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:src="@drawable/directory"
+			android:id="@+id/imageView1" android:layout_alignParentTop="true"
+			android:layout_centerHorizontal="true"></ImageView>
+		<Button android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/button1"
+			android:layout_below="@+id/textView1"
+			android:layout_centerHorizontal="true" android:text="John Smith-Professor of Mathematics"></Button>
+	</RelativeLayout>
+</LinearLayout>

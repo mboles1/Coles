@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply001">To be admitted to the Coles College of Business you must complete
+        and submit a paper application form. The form is available as a pdf on the KSU website. 
+        The three buttons below will help you with the application process. First, there is a 
+        copy of the official INSTRUCTIONS for APPLYING to the COLES PROFESSIONAL PROGRAM. 
+        The second leads to a tool that will calculate whether you meet the sophomore GPA 
+        requirement. Third, there is an Admission Checklist tool that can you can use to 
+        track your progress through the application process.</string>
+    <string name="apply002">INSTRUCTIONS for APPLYING to the COLES PROFESSIONAL PROGRAM
+        \n\n
+        1. You must complete all parts of the application before you can submit it. You 
+        cannot submit your form before all the necessary course grades are available in 
+        your KSU online record. Your application will not be processed until after those 
+        grades are official. (The Registrar\'s Office does not declare the grades official 
+        until a few days after the deadline for their submission by the faculty.)
+        \n\n
+        2. Identify which rules for Coles admission you need to meet. This is determined 
+        by your \"Catalog Term\". Your Catalog Term is initially the same as your \"Matriculation 
+        Date\", which is the term you first took classes at KSU. However, you are required to 
+        meet KSU\'s \"10-year rule\" - you must follow the requirements in a KSU Undergraduate 
+        Catalog that will be no more than 10 years old when you graduate. If you are not 
+        going to graduate within 10 years from when you started at KSU, you must move up to 
+        a newer Catalog Term and follow the rules in the Catalog for that term. Also, if you 
+        \"stop out\" for several terms, you will be required by KSU to move to the current 
+        Catalog when you return.  Your Catalog Term can be found in your OwlExpress online 
+        record. See an advisor for help on this point if you need it.
+        \n\n
+        3. Calculate whether you meet the Coles SOPHOMORE GPA REQUIREMENT.\n
+        * A worksheet is provided to help you with your calculation. You must complete this 
+        worksheet and submit it with your application.\n
+        * The courses required and the GPA required have changed over time, so use the appropriate 
+        Catalog Term to determine which rules you need to meet.\n
+        * Check your online transcript to make sure you use the correct number of credit hours 
+        you received for each course. Differences in credit hours will affect the GPA.
+        \n\n
+        4. Complete the OTHER REQUIREMENTS for admission described on the application form (total 
+        hours, registration with Career Services, etc.), and complete the application form.
+        \n\n
+        5. There is a NONREFUNDABLE $100 APPLICATION FEE. Make sure you qualify for admission 
+        before you apply! The fee must be paid at the Bursar\'s Office by CASH OR CHECK ONLY. 
+        The bursar\'s Office is located in the Carmichael Student Center. You must obtain a 
+        stamp or signature from the Bursar\'s Office in the appropriate box on the application 
+        form, and also get a receipt.
+        \n\n
+        6. STAPLE a copy of the Bursar\'s Office receipt and the printout documenting your 
+        Career Services registration to the back of your application form.
+        \n\n
+        7. TURN IN your completed application package to the Business Undergraduate Advising Center 
+        on the 4th floor of the Burruss Building (BB 431). If no one is there, do not leave it, since 
+        it it your evidence that you have paid your fee.
+        \n\n
+        8. After the Office for Undergraduate Business Programs has completed an administrative check 
+        of your records, you will be notified by phone, email, and/or letter. Please respond promptly 
+        to any comments regarding the need to submit additional documentation (substitutions, etc.).
+        \n\n
+        9. It is your responsibility to check with the Office for Undergraduate business Programs to 
+        assure that all necessary actions have been taken so that your application can be processed.
+        \n\n
+        Revised 11/7/11        
+        </string>
+    <string name="applyGPA01">Fill in Catalog Term, Credit Hours, and Grades below to determine if you meet your Coles admission requirements.  
+        In order to be admitted to Coles, you must have at least a “C” grade in each of the required courses.  
+        You must also meet the minimum GPA on the set of required courses.  The minimum GPA is determined by your Catalog Term.
+</string>
+    <string name="applyGPA02">Elementary Applied Calculus - MATH 1106/1190</string>
+    <string name="applyGPA03">Introduction to Financial Accounting - ACCT 2100</string>
+    <string name="applyGPA04">Introduction to Managerial Accounting - ACCT 2200</string>
+    <string name="applyGPA05">Principles of Microeconomics - ECON 2100</string>
+    <string name="applyGPA06">Principles of Macroeconomics - ECON 2200</string>
+    <string name="applyGPA07">Information Systems &amp; Communication - IS 2200</string>
+    <string name="applyGPA08">Legal and Ethical Environment of Business - BLAW 2200</string>
+    <string name="applyGPA09">Business Statistics - ECON 2300</string>
+    <string name="applySummaryHead">Summary of Data Entered</string>
+    <string name="applyCREDHRS">3</string>
+    <string name="applyCredHours">Credit Hours: </string>
+    <string name="applyGrade">Grade:</string>
+    <string name="applyQualPts">Quality Points:</string>
+    <string name="applyCatTerm1">Fall 2000 through Summer 2004</string>
+    <string name="applyCatTerm2">Fall 2004 through Summer 2008</string>
+    <string name="applyCatTerm3">Fall 2008 to present</string>
+    <string name="applyGradeA">A</string>
+    <string name="applyGradeB">B</string>
+    <string name="applyGradeC">C</string>
+    <string name="applyGradeNA">NA</string>
+    <string name="apply004">Use this handy checklist to track your progress.</string>
+    <string name="applyCheck01">Admission to Kennesaw State University</string>
+    <string name="applyCheck02">Completion of at least 45 semester hours of college credit. Students 
+        should have completed most of the required General Education courses for business students before 
+        applying to the Program.</string>
+    <string name="applyCheck03">Meeting with a Coles College of Business Advisor. (This app may help you 
+        prepare for this meeting.)</string>
+    <string name="applyCheck04">Registration with KSU\'s Career Services - register in the OwlLink system 
+        from any computer anywhere - go to caeerctr.kennesqw.edu and login at the bottom of the page. After 
+        completing your profile in OwlLink, go to the OwlLink home page, which will now show your name and 
+        the date. Print out a copy of that page, with your name and date shown, and staple that printout 
+        to the back of your application. If you are not currently enrolled in classes, OwlLink will not 
+        let your register - you will need to get a letter from KSU Career Services Center, Room 2617 in 
+        Kennewsaw Hall.</string>
+    <string name="applyCheck05">Satisfactory completion of the courses in the Sophomore GPA Requirement. Refer to the GPA calculator.</string>
+    <string name="applyCheck06">Complete application paperwork.</string>
+    <string name="applyCheck07">Pay application fee and get Bursar\'s Office Stamp.</string>
+    <string name="applyCheck08">Prepare application package.</string>
+    <string name="applyCheck09">Turn in completed application package.</string>
+    <string name="btnBack">Back</string>
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnInstruct">Instructions</string>
+    <string name="btnWorksheet">GPA Worksheet</string>
+    <string name="btnChecklist">Admission Checklist</string>
+</resources>

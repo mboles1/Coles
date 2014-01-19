@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="105dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/black"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/homeBTN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="5dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/home" />
+        
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="Undergraduate Programs"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#EEB211"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:text="Admission Checklist"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:background="#FFFFFF"/>
+        
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        >
+
+        <RelativeLayout 
+	    android:id="@+id/relativeLayout1"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent" 
+		>
+        <TextView
+	        android:id="@+id/TextView02"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingBottom="10dp"
+	        android:text="@string/apply004"
+	        android:textSize="20.1sp"
+	        android:gravity="left">	        
+	    </TextView>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView01"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck01"
+	 	    android:gravity="top"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/TextView02"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView02"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck02"
+	 	    android:gravity="top"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView01"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView03"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck03"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView02"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView04"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck04"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView03"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView05"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck05"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView04"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView06"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck06"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView05"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView07"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck07"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView06"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView08"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck08"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView07"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+	 	<CheckBox
+	 	    android:id="@+id/CheckView09"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_alignParentLeft="true"
+	        android:layout_marginLeft="4dp"
+	        android:layout_marginRight="10dp"
+	        android:paddingBottom="10dp"
+	 	    android:text="@string/applyCheck09"
+	 	    android:gravity="top"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_below="@+id/CheckView08"
+			android:button="@drawable/applycheckbox" 
+	  	/>
+
+
+	 	<Button
+	 	    android:id="@+id/button1"
+	 	    android:layout_width="wrap_content"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_below="@+id/CheckView09"
+	 	    android:gravity="center"
+	 	    android:text="More Info on Web" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    </RelativeLayout>

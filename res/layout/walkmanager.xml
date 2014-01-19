@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableLayout11"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*" >
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="Walk Manager"
+        android:textColor="#EEB211"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView11"
+        android:gravity="center"
+        android:text="  => Go to 4th Floor of the Burruss Building"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TextView02"
+        android:src="@drawable/burruss_level2" />
+
+    <Button
+        android:id="@+id/btnWalkToBldg"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:gravity="center"
+        android:text="Walk To Bldg"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <Button
+        android:id="@+id/btnWalkToRm"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignBaseline="@+id/btnWalkToBldg"
+        android:layout_alignBottom="@+id/btnWalkToBldg"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:text="Walk To Room"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <ZoomButton
+        android:id="@+id/zoomButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_marginTop="15dp"
+        android:src="@android:drawable/btn_plus" />
+
+</RelativeLayout> 

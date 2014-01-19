@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/backgroundnews"
+	android:paddingBottom="60dp" android:paddingTop="90dp">
+
+ <RelativeLayout android:layout_width="match_parent"
+		android:layout_height="match_parent" android:id="@+id/relativeLayout1">
+ <ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" 
+			android:id="@+id/newsBTN"
+			android:src="@drawable/news_filled" android:background="@null" android:layout_marginLeft="15dp"></ImageButton>
+
+<ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignRight="@+id/eventBTN"
+			android:id="@+id/eventBTN"
+			android:src="@drawable/events_faded" android:background="@null" android:layout_marginLeft="205dp"></ImageButton>
+
+ 
+	<ListView android:layout_height="wrap_content" android:id="@+id/android:list" android:layout_marginTop="40dp"
+		android:layout_width="wrap_content" android:divider="@android:color/background_light"
+		android:layout_marginBottom="10dp" android:layout_marginLeft="2dp"
+		 android:dividerHeight="2dp"></ListView>
+	</RelativeLayout>
+	</LinearLayout>

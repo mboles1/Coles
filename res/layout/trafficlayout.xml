@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alwaysDrawnWithCache="false"
+    android:background="@drawable/realbackground3"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:ignore="HardcodedText" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/black"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/homeBTN"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="5dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/home" 
+                android:contentDescription="Home Button"/>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="Wait Time in Advising Lobby"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#EEB211"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:text="Coles College of Business"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#FFFFFF"
+                tools:ignore="HardcodedText" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/light"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/date"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/trafficlightoff" 
+            android:contentDescription="Traffic Light"/>
+
+        <!-- android:layout_marginBottom="35dp" -->
+
+        <TextView
+            android:id="@+id/waitTimeTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/linearLayout2"
+            android:gravity="center"
+            android:text="Current Wait Time in Lobby as of"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/yellowText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/light"
+            android:text="Yellow: Average"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <CheckBox
+            android:id="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:text="Check Here to Turn On Traffic Status Notifications"
+            android:textColor="#EEB211" />
+
+        <TextView
+            android:id="@+id/greenText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/yellowText"
+            android:layout_below="@+id/yellowText"
+            android:layout_marginTop="17dp"
+            android:text="Green: Little or None"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/redText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/yellowText"
+            android:layout_alignTop="@+id/light"
+            android:layout_marginTop="16dp"
+            android:text="Red: Long"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/redText"
+            android:layout_centerHorizontal="true"
+            android:text="Date goes here"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:visibility="invisible"
+            tools:ignore="HardcodedText" />
+
+        <CheckedTextView
+            android:id="@+id/checkedTextView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/light"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:text="Click Here to Update Status"
+            android:textColor="#EEB211" />
+
+    </RelativeLayout>
+
+</LinearLayout>

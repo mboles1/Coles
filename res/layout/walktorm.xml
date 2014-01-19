@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+    
+    
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="Walk To Room"
+        android:textColor="#EEB211"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="QR Code Reader"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="=> Go to any elevator to scan QR codes"
+        android:textSize="15dp" />
+
+	
+    <Button 
+        android:id="@+id/TestButton"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text="Button"
+        />
+    </LinearLayout>
